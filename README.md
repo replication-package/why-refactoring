@@ -3,6 +3,8 @@
    * **list-of-150-analyzed-projects.csv** — List of 150 randomly selected projects we used in our study. (For the selection process see section 2.1 Study Context.) 
    * **qualitative-analysis/** — data related to 551 pull requests. Random representative sample selected out of 2400 pull requests. (For the selection process see Section 2.3 Qualitative Analysis of Refactoring Discussions in Pull Requests (RQ2).) 
         * **pullRequests.csv** — List of refactorings detected by RMiner. 
+	* **detectedRefactoringOperations.csv** — List of refactorings with PR commit Ids. 
+	* **refactoringKeywords.pdf** — List of refactoring keywords. 
         * **tags.csv** — List of pull requests manually tagged by authors.  
    * **mapping-taxonomy-Silva-etal/** — Similarities and differences between motivations of our taxonomy and motivations reported in Silva et. al paper "Why We Refactor? Confessions of GitHub Contributors". 
         * **diff-our-taxonomy-and-Silva's.pdf** — Marked categories covered by Silva et al. on our taxonomy. 
