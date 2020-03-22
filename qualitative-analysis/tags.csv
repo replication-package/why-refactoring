@@ -1,1224 +1,1224 @@
 pullRequest_id,tag,what,when,tangled
-47699,Unclear,Combination of refactorings,Original intent,No
-47678,Remove clones,EXTRACT_OPERATION,Original intent,No
-47678,Understandability & Readability,EXTRACT_OPERATION,Original intent,No
-47581,Unclear,Combination of refactorings,Collateral,Yes
+47796,Adhere to DRY principle,Combination of refactorings,After discussion,Yes
+48015,Adhere to DRY principle,EXTRACT_OPERATION,Original intent,Yes
+47679,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47296,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+48059,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47762,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47309,Better distribute responsibilities,Combination of refactorings,Original intent,No
+47454,Better distribute responsibilities,Combination of refactorings,Original intent,No
+47512,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+48043,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47609,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47784,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47272,Better distribute responsibilities,Combination of refactorings,Original intent,No
+47297,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47479,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47489,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47322,Better distribute responsibilities,Combination of refactorings,After discussion,Yes
+47398,Better distribute responsibilities,Combination of refactorings,After discussion,Yes
+47625,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47422,Better distribute responsibilities,Combination of refactorings,Original intent,No
+47740,Better distribute responsibilities,Combination of refactorings,After discussion,Yes
+47329,Better distribute responsibilities,Combination of refactorings,After discussion,Yes
+47704,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+48056,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47334,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47529,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47661,Better distribute responsibilities,Combination of refactorings,Original intent,No
+47401,Better distribute responsibilities,Combination of refactorings,After discussion,Yes
+47416,Better distribute responsibilities,Combination of refactorings,After discussion,Yes
+47400,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47637,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47287,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47287,Better distribute responsibilities,Combination of refactorings,Original intent,No
+47616,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47271,Better distribute responsibilities,Combination of refactorings,Collateral,Yes
+47340,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47715,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+47790,Better distribute responsibilities,Combination of refactorings,Original intent,No
+47485,Better distribute responsibilities,Combination of refactorings,Original intent,No
+48082,Better distribute responsibilities,Combination of refactorings,Original intent,Yes
+48054,Better distribute responsibilities,EXTRACT_AND_MOVE_OPERATION,Original intent,No
+47500,Better distribute responsibilities,EXTRACT_AND_MOVE_OPERATION,Original intent,No
+47667,Better distribute responsibilities,EXTRACT_AND_MOVE_OPERATION,Original intent,No
+48000,Better distribute responsibilities,EXTRACT_CLASS,After discussion,No
+47369,Better distribute responsibilities,EXTRACT_CLASS,Original intent,Yes
+47594,Better distribute responsibilities,EXTRACT_CLASS,Original intent,No
+47579,Better distribute responsibilities,EXTRACT_INTERFACE,Collateral,No
+47647,Better distribute responsibilities,EXTRACT_OPERATION,Original intent,No
+48062,Better distribute responsibilities,EXTRACT_OPERATION,Original intent,Yes
+47663,Better distribute responsibilities,EXTRACT_OPERATION,Original intent,Yes
+47337,Better distribute responsibilities,EXTRACT_OPERATION,Collateral,Yes
+47614,Better distribute responsibilities,EXTRACT_OPERATION,Original intent,Yes
+48080,Better distribute responsibilities,EXTRACT_OPERATION,After discussion,Yes
+47813,Better distribute responsibilities,EXTRACT_OPERATION,After discussion,No
+47465,Better distribute responsibilities,EXTRACT_OPERATION,After discussion,Yes
+48017,Better distribute responsibilities,EXTRACT_OPERATION,Original intent,Yes
+47449,Better distribute responsibilities,EXTRACT_OPERATION,Original intent,Yes
+47379,Better distribute responsibilities,EXTRACT_OPERATION,After discussion,Yes
+47788,Better distribute responsibilities,EXTRACT_OPERATION,After discussion,Yes
+48035,Better distribute responsibilities,EXTRACT_OPERATION,Original intent,Yes
+47677,Better distribute responsibilities,EXTRACT_SUPERCLASS,After discussion,Yes
+47471,Better distribute responsibilities,EXTRACT_SUPERCLASS,Original intent,Yes
+47391,Better distribute responsibilities,MOVE_ATTRIBUTE,Original intent,No
+48054,Better distribute responsibilities,MOVE_ATTRIBUTE,Original intent,No
+47339,Better distribute responsibilities,MOVE_ATTRIBUTE,Collateral,Yes
+47425,Better distribute responsibilities,MOVE_ATTRIBUTE,Original intent,Yes
+47583,Better distribute responsibilities,MOVE_CLASS,Original intent,No
+47514,Better distribute responsibilities,MOVE_CLASS,Collateral,Yes
+47356,Better distribute responsibilities,MOVE_CLASS,Original intent,No
+47645,Better distribute responsibilities,MOVE_CLASS,Original intent,No
+47671,Better distribute responsibilities,MOVE_CLASS,Original intent,Yes
+47295,Better distribute responsibilities,MOVE_CLASS,After discussion,Yes
+47623,Better distribute responsibilities,MOVE_CLASS,Original intent,No
+47645,Better distribute responsibilities,MOVE_CLASS,After discussion,No
+47322,Better distribute responsibilities,MOVE_CLASS,Original intent,Yes
+47624,Better distribute responsibilities,MOVE_CLASS,Original intent,No
+47696,Better distribute responsibilities,MOVE_OPERATION,Original intent,No
+48054,Better distribute responsibilities,MOVE_OPERATION,Original intent,No
+47689,Better distribute responsibilities,MOVE_OPERATION,Original intent,Yes
+47651,Better distribute responsibilities,MOVE_OPERATION,Original intent,No
+47384,Better distribute responsibilities,MOVE_OPERATION,After discussion,Yes
+47561,Better distribute responsibilities,MOVE_OPERATION,After discussion,Yes
+47544,Better distribute responsibilities,MOVE_SOURCE_FOLDER,Original intent,Yes
+47766,Better distribute responsibilities,NARROW_METHOD_VISIBILITY,After discussion,Yes
+48001,Better distribute responsibilities,PULL_UP_ATTRIBUTE,Original intent,No
+47764,Better distribute responsibilities,PULL_UP_ATTRIBUTE,Original intent,Yes
+48001,Better distribute responsibilities,PULL_UP_ATTRIBUTE,Original intent,No
+47606,Better distribute responsibilities,PULL_UP_OPERATION,After discussion,Yes
+47591,Better distribute responsibilities,PULL_UP_OPERATION,After discussion,Yes
+47525,Better distribute responsibilities,RENAME_ATTRIBUTE,After discussion,Yes
+47341,Better distribute responsibilities,REPLACE_VARIABLE_WITH_ATTRIBUTE,Original intent,Yes
+47715,Changed type hierarchy,Combination of refactorings,Original intent,Yes
+47448,Changed type hierarchy,Combination of refactorings,Original intent,No
+47571,Changed type hierarchy,EXTRACT_INTERFACE,Collateral,Yes
+47515,Cleanup code,Combination of refactorings,Original intent,Yes
+47455,Cleanup code,Combination of refactorings,Original intent,Yes
+47546,Cleanup code,Combination of refactorings,Original intent,No
+47532,Cleanup code,Combination of refactorings,Collateral,Yes
+47639,Cleanup code,Combination of refactorings,Original intent,No
+47393,Cleanup code,Combination of refactorings,Original intent,Yes
+48059,Cleanup code,Combination of refactorings,Original intent,Yes
+47731,Cleanup code,Combination of refactorings,After discussion,Yes
+48062,Cleanup code,Combination of refactorings,Original intent,Yes
+47470,Cleanup code,Combination of refactorings,Original intent,No
+47463,Cleanup code,Combination of refactorings,Original intent,Yes
+47593,Cleanup code,Combination of refactorings,Original intent,Yes
+47469,Cleanup code,Combination of refactorings,Original intent,Yes
+47355,Cleanup code,Combination of refactorings,After discussion,Yes
+48032,Cleanup code,Combination of refactorings,Original intent,Yes
+48071,Cleanup code,Combination of refactorings,Original intent,Yes
+47606,Cleanup code,Combination of refactorings,After discussion,Yes
+47689,Cleanup code,Combination of refactorings,Original intent,Yes
+47512,Cleanup code,Combination of refactorings,Original intent,Yes
+47701,Cleanup code,Combination of refactorings,Original intent,Yes
+48031,Cleanup code,Combination of refactorings,Original intent,No
+47576,Cleanup code,Combination of refactorings,Original intent,Yes
+47609,Cleanup code,Combination of refactorings,After discussion,Yes
+47599,Cleanup code,Combination of refactorings,Original intent,Yes
+47368,Cleanup code,Combination of refactorings,Original intent,Yes
+47403,Cleanup code,Combination of refactorings,Original intent,Yes
+48021,Cleanup code,Combination of refactorings,After discussion,Yes
+48025,Cleanup code,Combination of refactorings,Original intent,Yes
+48011,Cleanup code,Combination of refactorings,After discussion,Yes
+47528,Cleanup code,Combination of refactorings,Original intent,Yes
+47758,Cleanup code,Combination of refactorings,Original intent,No
+47446,Cleanup code,Combination of refactorings,Original intent,Yes
+47800,Cleanup code,Combination of refactorings,Original intent,Yes
+47387,Cleanup code,Combination of refactorings,Original intent,Yes
+47402,Cleanup code,Combination of refactorings,Original intent,Yes
+47398,Cleanup code,Combination of refactorings,After discussion,Yes
+47615,Cleanup code,Combination of refactorings,Original intent,Yes
+47422,Cleanup code,Combination of refactorings,Original intent,No
+47629,Cleanup code,Combination of refactorings,Original intent,No
+47642,Cleanup code,Combination of refactorings,After discussion,Yes
+47635,Cleanup code,Combination of refactorings,After discussion,Yes
+47556,Cleanup code,Combination of refactorings,After discussion,Yes
+48039,Cleanup code,Combination of refactorings,Original intent,Yes
+47723,Cleanup code,Combination of refactorings,Original intent,Yes
+47707,Cleanup code,Combination of refactorings,Original intent,Yes
+47441,Cleanup code,Combination of refactorings,Original intent,Yes
+47674,Cleanup code,Combination of refactorings,Collateral,Yes
+48056,Cleanup code,Combination of refactorings,Original intent,Yes
+47302,Cleanup code,Combination of refactorings,After discussion,Yes
+47334,Cleanup code,Combination of refactorings,Original intent,Yes
+47358,Cleanup code,Combination of refactorings,After discussion,Yes
+47998,Cleanup code,Combination of refactorings,Original intent,Yes
+47511,Cleanup code,Combination of refactorings,Original intent,Yes
+47430,Cleanup code,Combination of refactorings,After discussion,Yes
+47425,Cleanup code,Combination of refactorings,Original intent,Yes
+47498,Cleanup code,Combination of refactorings,Original intent,Yes
+47595,Cleanup code,Combination of refactorings,Original intent,Yes
+48019,Cleanup code,Combination of refactorings,Original intent,Yes
+47300,Cleanup code,Combination of refactorings,Original intent,Yes
+48030,Cleanup code,Combination of refactorings,After discussion,Yes
+47533,Cleanup code,Combination of refactorings,Original intent,Yes
+47413,Cleanup code,Combination of refactorings,Original intent,Yes
+47777,Cleanup code,Combination of refactorings,After discussion,Yes
+47641,Cleanup code,Combination of refactorings,Original intent,Yes
+47287,Cleanup code,Combination of refactorings,Original intent,Yes
+47271,Cleanup code,Combination of refactorings,Original intent,Yes
+48017,Cleanup code,Combination of refactorings,Original intent,Yes
+47589,Cleanup code,Combination of refactorings,Original intent,Yes
+48064,Cleanup code,Combination of refactorings,Original intent,Yes
+47560,Cleanup code,Combination of refactorings,Original intent,Yes
+48040,Cleanup code,Combination of refactorings,Original intent,Yes
+47801,Cleanup code,Combination of refactorings,Original intent,Yes
+47796,Cleanup code,Combination of refactorings,After discussion,Yes
+48079,Cleanup code,Combination of refactorings,Original intent,No
+47487,Cleanup code,Combination of refactorings,Original intent,Yes
+48082,Cleanup code,Combination of refactorings,After discussion,Yes
+47676,Cleanup code,Combination of refactorings,Original intent,Yes
+47714,Cleanup code,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
+47586,Cleanup code,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
+48029,Cleanup code,EXTRACT_OPERATION,Original intent,Yes
+47328,Cleanup code,EXTRACT_OPERATION,Original intent,Yes
+47709,Cleanup code,EXTRACT_OPERATION,Original intent,Yes
+47438,Cleanup code,EXTRACT_OPERATION,Original intent,No
+47304,Cleanup code,EXTRACT_OPERATION,Original intent,No
+47310,Cleanup code,EXTRACT_OPERATION,After discussion,Yes
+47492,Cleanup code,EXTRACT_OPERATION,Original intent,Yes
+48018,Cleanup code,EXTRACT_VARIABLE,Original intent,No
+48036,Cleanup code,EXTRACT_VARIABLE,Original intent,Yes
+47672,Cleanup code,EXTRACT_VARIABLE,Original intent,Yes
+48016,Cleanup code,EXTRACT_VARIABLE,Collateral,Yes
+47815,Cleanup code,INLINE_OPERATION,Original intent,No
+47363,Cleanup code,INLINE_VARIABLE,After discussion,Yes
+47391,Cleanup code,MOVE_ATTRIBUTE,Original intent,Yes
+47586,Cleanup code,MOVE_ATTRIBUTE,After discussion,Yes
+47623,Cleanup code,MOVE_CLASS,Original intent,No
+47645,Cleanup code,MOVE_CLASS,After discussion,No
+47671,Cleanup code,MOVE_CLASS,Original intent,Yes
+47347,Cleanup code,MOVE_CLASS,Collateral,Yes
+47415,Cleanup code,NARROW_METHOD_VISIBILITY,After discussion,No
+47283,Cleanup code,NARROW_METHOD_VISIBILITY,Original intent,Yes
+47438,Cleanup code,NARROW_METHOD_VISIBILITY,Original intent,No
+48008,Cleanup code,RENAME_ATTRIBUTE,After discussion,No
+47717,Cleanup code,RENAME_CLASS,Original intent,No
+47677,Cleanup code,RENAME_CLASS,After discussion,Yes
+47480,Cleanup code,RENAME_METHOD,Original intent,Yes
+47564,Cleanup code,RENAME_PARAMETER,Original intent,No
+47738,Cleanup code,RENAME_VARIABLE,Original intent,Yes
+47345,Cleanup code,REPLACE_VARIABLE_WITH_ATTRIBUTE,Original intent,No
+47356,Create a more cohesive package,Combination of refactorings,Original intent,Yes
+48043,Create a more cohesive package,Combination of refactorings,Original intent,Yes
+47326,Create a more cohesive package,Combination of refactorings,Original intent,No
+47600,Create a more cohesive package,MOVE_CLASS,After discussion,Yes
+47398,Create a more cohesive package,MOVE_CLASS,Collateral,No
+48082,Create a more cohesive package,MOVE_CLASS,Original intent,Yes
+47303,Facilitate subclassing,Combination of refactorings,After discussion,Yes
+47400,Facilitate subclassing,Combination of refactorings,Original intent,Yes
+47338,Facilitate subclassing,EXTRACT_OPERATION,Original intent,No
 47694,False positive,Combination of refactorings,Original intent,Yes
+47807,False positive,Combination of refactorings,Original intent,Yes
+47477,False positive,Combination of refactorings,Original intent,Yes
+47417,False positive,Combination of refactorings,Original intent,Yes
+47520,False positive,Combination of refactorings,Original intent,Yes
+47792,False positive,Combination of refactorings,Original intent,Yes
+47503,False positive,Combination of refactorings,Original intent,Yes
+47542,False positive,Combination of refactorings,Original intent,Yes
+47730,False positive,Combination of refactorings,Original intent,Yes
+47613,False positive,Combination of refactorings,Original intent,Yes
+47632,False positive,EXTRACT_CLASS,After discussion,Yes
+47577,False positive,RENAME_CLASS,Original intent,No
+47562,Fix warnings from static analysis tools,Combination of refactorings,Original intent,No
+47785,Fix warnings from static analysis tools,Combination of refactorings,Original intent,Yes
+47438,Fix warnings from static analysis tools,Combination of refactorings,Original intent,Yes
+47277,Fix warnings from static analysis tools,Combination of refactorings,Original intent,Yes
+47330,Fix warnings from static analysis tools,Combination of refactorings,Original intent,No
+47343,Fix warnings from static analysis tools,Combination of refactorings,Original intent,Yes
+47448,Fix warnings from static analysis tools,Combination of refactorings,After discussion,No
+48065,Fix warnings from static analysis tools,EXTRACT_OPERATION,Original intent,No
+47814,Fix warnings from static analysis tools,RENAME_VARIABLE,Original intent,No
+47506,For bug fixing,Combination of refactorings,Original intent,No
+47758,For bug fixing,EXTRACT_VARIABLE,Original intent,No
+47680,For bug fixing,EXTRACT_VARIABLE,Collateral,Yes
+47382,For bug fixing,MOVE_RENAME_CLASS,After discussion,Yes
+47382,For bug fixing,RENAME_METHOD,After discussion,Yes
+47382,For bug fixing,RENAME_VARIABLE,After discussion,Yes
+48061,For going open source,Combination of refactorings,Original intent,Yes
+47507,For going open source,Combination of refactorings,Original intent,Yes
+47647,For implementing a new feature,Combination of refactorings,Collateral,Yes
+47497,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47695,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47454,For implementing a new feature,Combination of refactorings,Original intent,No
+48022,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47609,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47537,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47563,For implementing a new feature,Combination of refactorings,Collateral,Yes
+47368,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47769,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47617,For implementing a new feature,Combination of refactorings,After discussion,Yes
+47299,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47997,For implementing a new feature,Combination of refactorings,Original intent,No
+48078,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47426,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47529,For implementing a new feature,Combination of refactorings,Original intent,Yes
+47716,For implementing a new feature,Combination of refactorings,Original intent,No
+47325,For implementing a new feature,Combination of refactorings,Original intent,Yes
+48084,For implementing a new feature,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
+47697,For implementing a new feature,EXTRACT_INTERFACE,Original intent,No
+48058,For implementing a new feature,EXTRACT_OPERATION,Original intent,No
+47628,For implementing a new feature,EXTRACT_OPERATION,Original intent,No
+47631,For implementing a new feature,EXTRACT_OPERATION,Original intent,No
+47462,For implementing a new feature,EXTRACT_OPERATION,Original intent,Yes
+48070,For implementing a new feature,EXTRACT_OPERATION,Original intent,No
+47677,For implementing a new feature,MOVE_RENAME_CLASS,Original intent,No
+47497,For implementing a new feature,MOVE_SOURCE_FOLDER,Original intent,No
+48084,For implementing a new feature,NARROW_METHOD_VISIBILITY,Original intent,Yes
+47557,For implementing a new feature,RENAME_ATTRIBUTE,Collateral,No
+47592,For implementing a new feature,RENAME_CLASS,Original intent,Yes
+47631,For implementing a new feature,RENAME_METHOD,Original intent,No
+47810,For implementing a new feature,RENAME_VARIABLE,Original intent,Yes
+48005,For major refactoring,Combination of refactorings,Original intent,Yes
+47594,For major refactoring,MOVE_CLASS,Original intent,No
+47689,Foster code reuse,Combination of refactorings,Original intent,Yes
+47303,Foster code reuse,Combination of refactorings,After discussion,Yes
+47400,Foster code reuse,Combination of refactorings,Original intent,Yes
+47474,Foster code reuse,Combination of refactorings,Original intent,No
+47683,Foster code reuse,Combination of refactorings,Original intent,Yes
+48057,Foster code reuse,Combination of refactorings,Original intent,No
+47593,Foster code reuse,Combination of refactorings,Original intent,Yes
+47356,Foster code reuse,Combination of refactorings,Original intent,Yes
+47689,Foster code reuse,Combination of refactorings,Original intent,Yes
+48043,Foster code reuse,Combination of refactorings,Original intent,Yes
+47537,Foster code reuse,Combination of refactorings,Original intent,Yes
+47272,Foster code reuse,Combination of refactorings,Original intent,No
+48048,Foster code reuse,Combination of refactorings,Original intent,Yes
+47283,Foster code reuse,Combination of refactorings,Original intent,Yes
+47627,Foster code reuse,Combination of refactorings,After discussion,Yes
+47457,Foster code reuse,Combination of refactorings,Original intent,Yes
+47529,Foster code reuse,Combination of refactorings,Original intent,Yes
+47430,Foster code reuse,Combination of refactorings,Original intent,Yes
+47656,Foster code reuse,Combination of refactorings,Original intent,Yes
+48067,Foster code reuse,Combination of refactorings,Original intent,Yes
+47413,Foster code reuse,Combination of refactorings,Original intent,Yes
+48040,Foster code reuse,Combination of refactorings,Original intent,Yes
+47801,Foster code reuse,Combination of refactorings,Original intent,Yes
+48079,Foster code reuse,Combination of refactorings,Original intent,No
+48002,Foster code reuse,EXTRACT_AND_MOVE_OPERATION,Original intent,No
+47569,Foster code reuse,EXTRACT_AND_MOVE_OPERATION,Original intent,No
+47667,Foster code reuse,EXTRACT_AND_MOVE_OPERATION,Original intent,No
+47774,Foster code reuse,EXTRACT_CLASS,Original intent,No
+48013,Foster code reuse,EXTRACT_INTERFACE,Original intent,No
+47273,Foster code reuse,EXTRACT_INTERFACE,Original intent,Yes
+47662,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
+47647,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
+48062,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
+47799,Foster code reuse,EXTRACT_OPERATION,Original intent,No
+47443,Foster code reuse,EXTRACT_OPERATION,Original intent,No
+47351,Foster code reuse,EXTRACT_OPERATION,Collateral,No
+47449,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
+47462,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
+47387,Foster code reuse,EXTRACT_OPERATION,Collateral,No
+47312,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
+47379,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
+48015,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
+48034,Foster code reuse,EXTRACT_OPERATION,Original intent,No
+48080,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
+48060,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
+47333,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
+47290,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
+47738,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
+47315,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
+47473,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
+47689,Foster code reuse,EXTRACT_SUBCLASS,Original intent,Yes
+48069,Foster code reuse,EXTRACT_VARIABLE,Collateral,Yes
+47631,Foster code reuse,EXTRACT_VARIABLE,After discussion,Yes
+47638,Foster code reuse,EXTRACT_VARIABLE,After discussion,Yes
+47504,Foster code reuse,EXTRACT_VARIABLE,Original intent,No
+47636,Foster code reuse,MOVE_CLASS,Original intent,Yes
+47434,Foster code reuse,MOVE_OPERATION,Original intent,No
+47999,Foster code reuse,REPLACE_VARIABLE_WITH_ATTRIBUTE,After discussion,No
+47617,Improve Code design,Combination of refactorings,After discussion,Yes
+47282,Improve Code design,Combination of refactorings,Original intent,Yes
+47742,Improve Code design,Combination of refactorings,Original intent,Yes
+48051,Improve Encapsulation,Combination of refactorings,Original intent,Yes
+47627,Improve Encapsulation,Combination of refactorings,After discussion,Yes
+47727,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+47469,Improve error messages and logging,Combination of refactorings,Original intent,Yes
+47606,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+47298,Improve error messages and logging,Combination of refactorings,Original intent,Yes
+47576,Improve error messages and logging,Combination of refactorings,Original intent,Yes
+47619,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+48025,Improve error messages and logging,Combination of refactorings,Original intent,Yes
+47660,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+47788,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+47427,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+47627,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+48078,Improve error messages and logging,Combination of refactorings,Original intent,Yes
+47302,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+47430,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+47533,Improve error messages and logging,Combination of refactorings,Original intent,Yes
+47280,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+47271,Improve error messages and logging,Combination of refactorings,After discussion,Yes
+48017,Improve error messages and logging,Combination of refactorings,Original intent,Yes
+47636,Improve error messages and logging,Combination of refactorings,Original intent,Yes
+48082,Improve error messages and logging,Combination of refactorings,Original intent,Yes
+47765,Improve error messages and logging,EXTRACT_VARIABLE,Collateral,Yes
+48071,Improve error messages and logging,INLINE_VARIABLE,After discussion,Yes
+48026,Improve error messages and logging,MOVE_CLASS,Original intent,No
+47408,Improve error messages and logging,MOVE_CLASS,After discussion,Yes
+48026,Improve error messages and logging,MOVE_OPERATION,Original intent,No
+47385,Improve error messages and logging,RENAME_ATTRIBUTE,Original intent,No
+47385,Improve error messages and logging,RENAME_CLASS,Original intent,No
+47727,Improve exception handling,Combination of refactorings,After discussion,Yes
+47415,Improve exception handling,Combination of refactorings,After discussion,Yes
+47355,Improve exception handling,Combination of refactorings,After discussion,Yes
+47804,Improve exception handling,Combination of refactorings,Original intent,Yes
+47797,Improve exception handling,Combination of refactorings,Original intent,Yes
+47769,Improve exception handling,Combination of refactorings,After discussion,Yes
+47617,Improve exception handling,Combination of refactorings,After discussion,Yes
+47283,Improve exception handling,Combination of refactorings,Original intent,Yes
+47615,Improve exception handling,Combination of refactorings,Original intent,Yes
+47627,Improve exception handling,Combination of refactorings,After discussion,Yes
+47653,Improve exception handling,Combination of refactorings,After discussion,Yes
+47334,Improve exception handling,Combination of refactorings,Original intent,Yes
+47401,Improve exception handling,Combination of refactorings,After discussion,Yes
+47280,Improve exception handling,Combination of refactorings,After discussion,Yes
+48082,Improve exception handling,Combination of refactorings,Original intent,Yes
+47378,Improve exception handling,Combination of refactorings,After discussion,Yes
+47700,Improve exception handling,EXTRACT_CLASS,Original intent,No
+47700,Improve exception handling,EXTRACT_CLASS,After discussion,Yes
+47663,Improve exception handling,EXTRACT_OPERATION,After discussion,Yes
+47685,Improve exception handling,EXTRACT_OPERATION,Original intent,Yes
+48047,Improve exception handling,EXTRACT_OPERATION,After discussion,No
+47765,Improve exception handling,EXTRACT_VARIABLE,Collateral,Yes
+47286,Improve exception handling,RENAME_CLASS,Original intent,No
+47683,Improve extensibility,Combination of refactorings,Original intent,Yes
+47775,Improve extensibility,Combination of refactorings,Original intent,No
+47346,Improve extensibility,Combination of refactorings,Original intent,No
+47338,Improve extensibility,Combination of refactorings,Original intent,No
+47327,Improve extensibility,Combination of refactorings,Original intent,No
+47591,Improve extensibility,Combination of refactorings,Original intent,Yes
+48004,Improve extensibility,Combination of refactorings,Original intent,Yes
+47280,Improve extensibility,Combination of refactorings,After discussion,Yes
+48017,Improve extensibility,Combination of refactorings,Original intent,Yes
+47746,Improve extensibility,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
+47445,Improve extensibility,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
+47665,Improve extensibility,EXTRACT_INTERFACE,After discussion,Yes
+48013,Improve extensibility,EXTRACT_INTERFACE,Original intent,Yes
+48053,Improve extensibility,EXTRACT_INTERFACE,Original intent,No
+47290,Improve extensibility,EXTRACT_INTERFACE,Original intent,Yes
+47776,Improve extensibility,EXTRACT_INTERFACE,Original intent,Yes
+47273,Improve extensibility,EXTRACT_INTERFACE,Original intent,Yes
+47695,Improve extensibility,EXTRACT_OPERATION,Original intent,Yes
+47446,Improve extensibility,EXTRACT_OPERATION,Original intent,Yes
+47739,Improve extensibility,EXTRACT_OPERATION,Original intent,No
+47413,Improve extensibility,EXTRACT_OPERATION,Original intent,Yes
+47486,Improve extensibility,EXTRACT_SUPERCLASS,Original intent,Yes
+47743,Improve extensibility,PULL_UP_ATTRIBUTE,Original intent,Yes
+47486,Improve extensibility,PULL_UP_OPERATION,Original intent,Yes
+47361,Improve extensibility,RENAME_VARIABLE,Collateral,Yes
+47803,Improve interface compliance,Combination of refactorings,After discussion,Yes
+47683,Improve Maintainability,Combination of refactorings,Original intent,Yes
+47557,Improve Maintainability,Combination of refactorings,Original intent,No
+48031,Improve Maintainability,Combination of refactorings,Original intent,Yes
+47576,Improve Maintainability,Combination of refactorings,Original intent,Yes
+47794,Improve Maintainability,Combination of refactorings,Original intent,Yes
+47283,Improve Maintainability,Combination of refactorings,Original intent,Yes
+47660,Improve Maintainability,Combination of refactorings,After discussion,Yes
+47672,Improve Maintainability,Combination of refactorings,Original intent,No
+47329,Improve Maintainability,Combination of refactorings,After discussion,Yes
+47785,Improve Maintainability,Combination of refactorings,Original intent,Yes
+47529,Improve Maintainability,Combination of refactorings,Original intent,Yes
+48074,Improve Maintainability,Combination of refactorings,After discussion,Yes
+47295,Improve Maintainability,Combination of refactorings,Original intent,Yes
+47665,Improve Maintainability,EXTRACT_INTERFACE,After discussion,Yes
+47665,Improve Maintainability,EXTRACT_INTERFACE,After discussion,No
+48013,Improve Maintainability,EXTRACT_INTERFACE,Original intent,No
+47664,Improve Maintainability,EXTRACT_OPERATION,Original intent,Yes
+47348,Improve Maintainability,EXTRACT_OPERATION,After discussion,Yes
+48033,Improve Maintainability,EXTRACT_OPERATION,After discussion,Yes
+48060,Improve Maintainability,EXTRACT_OPERATION,Original intent,No
+47291,Improve Maintainability,EXTRACT_SUPERCLASS,Original intent,Yes
+47400,Improve Maintainability,EXTRACT_SUPERCLASS,After discussion,Yes
+47638,Improve Maintainability,EXTRACT_VARIABLE,Collateral,Yes
+47665,Improve Maintainability,MOVE_ATTRIBUTE,Original intent,Yes
+47665,Improve Maintainability,MOVE_ATTRIBUTE,After discussion,No
+47665,Improve Maintainability,RENAME_CLASS,After discussion,No
+47703,Improve modularization,Combination of refactorings,After discussion,Yes
+47326,Improve modularization,Combination of refactorings,Original intent,No
+47716,Improve modularization,Combination of refactorings,Original intent,Yes
+47569,Improve modularization,EXTRACT_AND_MOVE_OPERATION,Original intent,No
+48062,Improve modularization,EXTRACT_OPERATION,After discussion,Yes
+48045,Improve modularization,EXTRACT_OPERATION,After discussion,Yes
+47600,Improve modularization,MOVE_CLASS,After discussion,Yes
+47579,Improve modularization,MOVE_CLASS,After discussion,No
+47408,Improve modularization,MOVE_CLASS,After discussion,Yes
+47560,Improve modularization,MOVE_CLASS,Original intent,Yes
+47795,Improve modularization,MOVE_CLASS,Original intent,No
+47731,Improve naming,Combination of refactorings,After discussion,Yes
+47630,Improve naming,RENAME_ATTRIBUTE,After discussion,Yes
+47620,Improve naming,RENAME_ATTRIBUTE,After discussion,Yes
+47617,Improve naming,RENAME_METHOD,After discussion,No
+48003,Improve naming,RENAME_METHOD,After discussion,Yes
+47420,Improve naming,REPLACE_ATTRIBUTE,Original intent,No
+47315,Improve organization of test directory,Combination of refactorings,Original intent,Yes
+47535,Improve organization of test directory,MOVE_CLASS,Original intent,No
+47650,Improve organization of test directory,MOVE_OPERATION,After discussion,Yes
+47812,Improve quality of test code,Combination of refactorings,After discussion,Yes
+47609,Improve quality of test code,Combination of refactorings,After discussion,Yes
+47285,Improve quality of test code,Combination of refactorings,After discussion,Yes
+47441,Improve quality of test code,Combination of refactorings,Original intent,Yes
+47499,Improve quality of test code,Combination of refactorings,Original intent,Yes
+47661,Improve quality of test code,Combination of refactorings,After discussion,Yes
+47498,Improve quality of test code,Combination of refactorings,After discussion,Yes
+47607,Improve quality of test code,Combination of refactorings,Original intent,Yes
+47416,Improve quality of test code,Combination of refactorings,Original intent,Yes
+48017,Improve quality of test code,Combination of refactorings,Original intent,Yes
+47647,Improve quality of test code,EXTRACT_OPERATION,Original intent,No
+47555,Improve quality of test code,EXTRACT_OPERATION,Original intent,Yes
+47335,Improve quality of test code,EXTRACT_SUPERCLASS,Original intent,No
+47636,Improve quality of test code,MOVE_CLASS,Original intent,Yes
+47575,Improve quality of test code,MOVE_OPERATION,Original intent,No
+47768,Improve Understandability & Readability,Combination of refactorings,Original intent,No
+47526,Improve Understandability & Readability,Combination of refactorings,Collateral,Yes
+47558,Improve Understandability & Readability,Combination of refactorings,After discussion,No
+47749,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47786,Improve Understandability & Readability,Combination of refactorings,Original intent,No
+47371,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47371,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47393,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47393,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47562,Improve Understandability & Readability,Combination of refactorings,After discussion,No
+47731,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47293,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47762,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+48032,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47687,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47606,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47512,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+48031,Improve Understandability & Readability,Combination of refactorings,Original intent,No
+47576,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47306,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47278,Improve Understandability & Readability,Combination of refactorings,Original intent,No
+47331,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47620,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47634,Improve Understandability & Readability,Combination of refactorings,Original intent,No
+47332,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47797,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47368,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47769,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+48048,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47619,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47447,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47794,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+48021,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47591,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47429,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47617,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47574,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47614,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47458,Improve Understandability & Readability,Combination of refactorings,Collateral,Yes
+47660,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47615,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47422,Improve Understandability & Readability,Combination of refactorings,Original intent,No
+48046,Improve Understandability & Readability,Combination of refactorings,Original intent,No
+47788,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47361,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47642,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47642,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47329,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47785,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+48056,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47499,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47661,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+48008,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47646,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47401,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47802,Improve Understandability & Readability,Combination of refactorings,Original intent,No
+47484,Improve Understandability & Readability,Combination of refactorings,Original intent,No
+48081,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+48019,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47280,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47519,Improve Understandability & Readability,Combination of refactorings,Collateral,Yes
+47641,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47712,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47471,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47340,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47814,Improve Understandability & Readability,Combination of refactorings,Original intent,No
+47801,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+47796,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+48074,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+48028,Improve Understandability & Readability,Combination of refactorings,Original intent,Yes
+48082,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47473,Improve Understandability & Readability,Combination of refactorings,After discussion,Yes
+47767,Improve Understandability & Readability,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
+48049,Improve Understandability & Readability,EXTRACT_CLASS,After discussion,Yes
+47665,Improve Understandability & Readability,EXTRACT_INTERFACE,After discussion,Yes
+48053,Improve Understandability & Readability,EXTRACT_INTERFACE,Original intent,No
+47589,Improve Understandability & Readability,EXTRACT_INTERFACE,Original intent,Yes
+47678,Improve Understandability & Readability,EXTRACT_OPERATION,Original intent,No
+47770,Improve Understandability & Readability,EXTRACT_OPERATION,After discussion,No
+47719,Improve Understandability & Readability,EXTRACT_OPERATION,After discussion,No
+48083,Improve Understandability & Readability,EXTRACT_OPERATION,Original intent,Yes
+48029,Improve Understandability & Readability,EXTRACT_OPERATION,Original intent,Yes
+47328,Improve Understandability & Readability,EXTRACT_OPERATION,Original intent,Yes
+47449,Improve Understandability & Readability,EXTRACT_OPERATION,After discussion,No
+48051,Improve Understandability & Readability,EXTRACT_OPERATION,After discussion,Yes
+47631,Improve Understandability & Readability,EXTRACT_OPERATION,Original intent,Yes
+47305,Improve Understandability & Readability,EXTRACT_OPERATION,Original intent,No
+47312,Improve Understandability & Readability,EXTRACT_OPERATION,After discussion,Yes
+48034,Improve Understandability & Readability,EXTRACT_OPERATION,Original intent,No
+47543,Improve Understandability & Readability,EXTRACT_OPERATION,After discussion,Yes
+47304,Improve Understandability & Readability,EXTRACT_OPERATION,Original intent,No
+48060,Improve Understandability & Readability,EXTRACT_OPERATION,Original intent,No
+47585,Improve Understandability & Readability,EXTRACT_OPERATION,After discussion,Yes
+47323,Improve Understandability & Readability,EXTRACT_OPERATION,After discussion,No
+47632,Improve Understandability & Readability,EXTRACT_OPERATION,After discussion,Yes
+47767,Improve Understandability & Readability,EXTRACT_SUPERCLASS,Original intent,Yes
+47541,Improve Understandability & Readability,EXTRACT_VARIABLE,Original intent,Yes
+47504,Improve Understandability & Readability,EXTRACT_VARIABLE,Original intent,No
+47735,Improve Understandability & Readability,EXTRACT_VARIABLE,Original intent,Yes
+47783,Improve Understandability & Readability,EXTRACT_VARIABLE,Original intent,Yes
+47580,Improve Understandability & Readability,EXTRACT_VARIABLE,Original intent,Yes
+47815,Improve Understandability & Readability,INLINE_OPERATION,Original intent,No
+47402,Improve Understandability & Readability,INLINE_VARIABLE,Collateral,Yes
+47996,Improve Understandability & Readability,INLINE_VARIABLE,After discussion,Yes
+47509,Improve Understandability & Readability,MOVE_CLASS,Original intent,Yes
+47767,Improve Understandability & Readability,PULL_UP_ATTRIBUTE,Original intent,Yes
+47767,Improve Understandability & Readability,PULL_UP_OPERATION,Original intent,Yes
+48043,Improve Understandability & Readability,RENAME_ATTRIBUTE,After discussion,No
+47452,Improve Understandability & Readability,RENAME_ATTRIBUTE,After discussion,Yes
+47327,Improve Understandability & Readability,RENAME_ATTRIBUTE,Original intent,No
+47794,Improve Understandability & Readability,RENAME_ATTRIBUTE,Original intent,No
+47299,Improve Understandability & Readability,RENAME_ATTRIBUTE,After discussion,No
+47285,Improve Understandability & Readability,RENAME_ATTRIBUTE,After discussion,Yes
+47524,Improve Understandability & Readability,RENAME_CLASS,After discussion,No
+47296,Improve Understandability & Readability,RENAME_CLASS,After discussion,Yes
+47286,Improve Understandability & Readability,RENAME_CLASS,Original intent,No
+47665,Improve Understandability & Readability,RENAME_CLASS,After discussion,Yes
+47665,Improve Understandability & Readability,RENAME_CLASS,After discussion,No
+47775,Improve Understandability & Readability,RENAME_CLASS,After discussion,Yes
+47459,Improve Understandability & Readability,RENAME_CLASS,Original intent,No
+47563,Improve Understandability & Readability,RENAME_CLASS,Collateral,Yes
+47382,Improve Understandability & Readability,RENAME_CLASS,Original intent,Yes
+47776,Improve Understandability & Readability,RENAME_CLASS,Original intent,Yes
+47554,Improve Understandability & Readability,RENAME_CLASS,After discussion,Yes
+47771,Improve Understandability & Readability,RENAME_METHOD,Original intent,No
+47771,Improve Understandability & Readability,RENAME_METHOD,Original intent,No
+47811,Improve Understandability & Readability,RENAME_METHOD,After discussion,Yes
+47732,Improve Understandability & Readability,RENAME_METHOD,After discussion,Yes
+47346,Improve Understandability & Readability,RENAME_METHOD,Original intent,Yes
+47385,Improve Understandability & Readability,RENAME_METHOD,Original intent,No
+47279,Improve Understandability & Readability,RENAME_METHOD,Original intent,No
+47663,Improve Understandability & Readability,RENAME_METHOD,After discussion,Yes
+47423,Improve Understandability & Readability,RENAME_METHOD,Original intent,No
+47741,Improve Understandability & Readability,RENAME_METHOD,Original intent,No
+47734,Improve Understandability & Readability,RENAME_METHOD,After discussion,Yes
+47299,Improve Understandability & Readability,RENAME_METHOD,After discussion,No
+47579,Improve Understandability & Readability,RENAME_METHOD,After discussion,Yes
+47362,Improve Understandability & Readability,RENAME_METHOD,Original intent,Yes
+47573,Improve Understandability & Readability,RENAME_METHOD,Original intent,No
+47767,Improve Understandability & Readability,RENAME_METHOD,Original intent,Yes
+47654,Improve Understandability & Readability,RENAME_METHOD,After discussion,Yes
+47653,Improve Understandability & Readability,RENAME_METHOD,After discussion,Yes
+47480,Improve Understandability & Readability,RENAME_METHOD,Original intent,Yes
+48045,Improve Understandability & Readability,RENAME_METHOD,Original intent,Yes
+47585,Improve Understandability & Readability,RENAME_METHOD,After discussion,Yes
+47568,Improve Understandability & Readability,RENAME_METHOD,Original intent,Yes
+47607,Improve Understandability & Readability,RENAME_PACKAGE,Original intent,Yes
+47632,Improve Understandability & Readability,RENAME_PACKAGE,After discussion,Yes
+47309,Improve Understandability & Readability,RENAME_PARAMETER,Original intent,No
+47783,Improve Understandability & Readability,RENAME_PARAMETER,After discussion,Yes
+47323,Improve Understandability & Readability,RENAME_PARAMETER,Original intent,No
+48062,Improve Understandability & Readability,RENAME_VARIABLE,Original intent,Yes
+47346,Improve Understandability & Readability,RENAME_VARIABLE,Original intent,Yes
+47726,Improve Understandability & Readability,RENAME_VARIABLE,Collateral,Yes
+47621,Improve Understandability & Readability,RENAME_VARIABLE,After discussion,Yes
+47767,Improve Understandability & Readability,RENAME_VARIABLE,Original intent,Yes
+47788,Improve Understandability & Readability,RENAME_VARIABLE,Collateral,Yes
+47418,Improve Understandability & Readability,RENAME_VARIABLE,Collateral,Yes
+47750,Improve Understandability & Readability,RENAME_VARIABLE,Original intent,Yes
+47794,Improve Understandability & Readability,REPLACE_VARIABLE_WITH_ATTRIBUTE,Original intent,No
+47398,Introduce design pattern,Combination of refactorings,After discussion,Yes
+48030,Introduce design pattern,Combination of refactorings,After discussion,Yes
+47398,Introduce design pattern,NARROW_METHOD_VISIBILITY,After discussion,No
+47371,Introduce generalization,Combination of refactorings,Original intent,Yes
+47781,Introduce generalization,Combination of refactorings,Original intent,No
+48046,Introduce generalization,Combination of refactorings,Original intent,Yes
+47563,Introduce generalization,EXTRACT_INTERFACE,After discussion,Yes
+48053,Introduce generalization,EXTRACT_INTERFACE,Original intent,No
+47620,Introduce generalization,EXTRACT_INTERFACE,Original intent,No
+47612,Introduce generalization,RENAME_CLASS,After discussion,Yes
+47411,Massive package reorganization,Combination of refactorings,Original intent,Yes
+47469,Massive package reorganization,Combination of refactorings,Original intent,Yes
+47356,Massive package reorganization,Combination of refactorings,Original intent,Yes
+47377,Massive package reorganization,Combination of refactorings,Original intent,No
+48082,Massive package reorganization,Combination of refactorings,Original intent,Yes
+47644,Massive package reorganization,MOVE_CLASS,Original intent,No
+47615,Massive package reorganization,MOVE_SOURCE_FOLDER,Original intent,Yes
+47700,Minimize public interface,MOVE_CLASS,After discussion,No
+47415,Minimize public interface,NARROW_METHOD_VISIBILITY,After discussion,No
+47676,Modularize API,Combination of refactorings,Original intent,No
+47610,Modularize API,MOVE_CLASS,Original intent,Yes
+48056,Modularize API,MOVE_CLASS,Original intent,Yes
+47777,Modularize API,MOVE_CLASS,After discussion,Yes
+47274,Other motivations,Combination of refactorings,Original intent,Yes
+47496,Other motivations,Combination of refactorings,Original intent,No
+47635,Other motivations,Combination of refactorings,Original intent,Yes
+47785,Other motivations,Combination of refactorings,Original intent,Yes
+47798,Other motivations,Combination of refactorings,After discussion,Yes
+48052,Other motivations,EXTRACT_OPERATION,Original intent,No
+47659,Other motivations,EXTRACT_OPERATION,Original intent,Yes
+47726,Other motivations,EXTRACT_VARIABLE,Collateral,No
+47797,Other motivations,MOVE_CLASS,Original intent,No
+47722,Other motivations,MOVE_SOURCE_FOLDER,Original intent,No
+47418,Other motivations,PARAMETERIZE_VARIABLE,Original intent,No
+47734,Other motivations,RENAME_METHOD,Original intent,Yes
+47469,Other motivations,Combination of refactorings,Original intent,Yes
+48032,Other motivations,Combination of refactorings,Original intent,Yes
+47787,Other motivations,Combination of refactorings,Original intent,Yes
+47684,Other motivations,Combination of refactorings,Collateral,Yes
+47368,Other motivations,Combination of refactorings,Original intent,Yes
+47769,Other motivations,Combination of refactorings,After discussion,Yes
+47789,Other motivations,Combination of refactorings,Original intent,Yes
+48075,Other motivations,Combination of refactorings,Original intent,Yes
+47361,Other motivations,Combination of refactorings,Original intent,Yes
+47289,Other motivations,Combination of refactorings,Original intent,Yes
+47674,Other motivations,Combination of refactorings,Original intent,Yes
+47654,Other motivations,Combination of refactorings,After discussion,Yes
+47349,Other motivations,Combination of refactorings,Collateral,Yes
+47268,Other motivations,Combination of refactorings,After discussion,Yes
+47705,Other motivations,Combination of refactorings,Collateral,Yes
+47716,Other motivations,Combination of refactorings,Original intent,No
+47677,Other motivations,Combination of refactorings,After discussion,Yes
+47752,Other motivations,Combination of refactorings,Original intent,Yes
+47766,Other motivations,Combination of refactorings,Original intent,Yes
+47614,Other motivations,EXTRACT_OPERATION,Original intent,Yes
+47382,Other motivations,EXTRACT_OPERATION,After discussion,Yes
+47633,Other motivations,EXTRACT_OPERATION,After discussion,Yes
+47392,Other motivations,EXTRACT_OPERATION,Original intent,No
+47452,Other motivations,EXTRACT_VARIABLE,Collateral,Yes
+47267,Other motivations,EXTRACT_VARIABLE,Original intent,Yes
+47313,Other motivations,EXTRACT_VARIABLE,After discussion,Yes
+48016,Other motivations,INLINE_VARIABLE,Original intent,Yes
+48009,Other motivations,MOVE_ATTRIBUTE,Collateral,Yes
+47752,Other motivations,NARROW_VARIABLE_VISIBILITY,Original intent,Yes
+48042,Other motivations,PULL_UP_OPERATION,After discussion,Yes
+47382,Other motivations,RENAME_CLASS,After discussion,Yes
+47592,Other motivations,RENAME_CLASS,Original intent,Yes
+47382,Other motivations,RENAME_METHOD,After discussion,Yes
+47564,Other motivations,RENAME_PARAMETER,Original intent,No
+47726,Other motivations,RENAME_VARIABLE,After discussion,Yes
+47382,Other motivations,RENAME_VARIABLE,After discussion,Yes
+47423,Prevent bugs,RENAME_METHOD,After discussion,No
+47278,Prevent bugs,Combination of refactorings,Original intent,No
+47757,Promote project coding style,ANONYMOUS_CLASS_TO_LAMBDA_EXPRESSION,After discussion,Yes
+47355,Promote project coding style,Combination of refactorings,After discussion,Yes
+47609,Promote project coding style,Combination of refactorings,After discussion,Yes
+47479,Promote project coding style,Combination of refactorings,Original intent,Yes
+47617,Promote project coding style,Combination of refactorings,After discussion,Yes
+48006,Promote project coding style,Combination of refactorings,After discussion,Yes
+48040,Promote project coding style,Combination of refactorings,Original intent,Yes
+48043,Promote project coding style,EXTRACT_AND_MOVE_OPERATION,After discussion,No
+48007,Promote project coding style,MOVE_ATTRIBUTE,After discussion,Yes
+47645,Promote project coding style,MOVE_CLASS,After discussion,No
+47650,Promote project coding style,NARROW_METHOD_VISIBILITY,Original intent,Yes
+48020,Promote project coding style,RENAME_ATTRIBUTE,Original intent,No
+47268,Promote project coding style,RENAME_ATTRIBUTE,After discussion,No
+47459,Promote project coding style,RENAME_CLASS,After discussion,No
+47717,Promote project coding style,RENAME_CLASS,Original intent,No
+47729,Promote project coding style,RENAME_METHOD,Original intent,Yes
+47760,Promote project coding style,RENAME_METHOD,After discussion,Yes
+47365,Promote project coding style,RENAME_PARAMETER,Original intent,No
+48055,Promote type safety,EXTRACT_INTERFACE,After discussion,Yes
+47608,Reduce coupling between packages,Combination of refactorings,Original intent,No
+47686,Reduce coupling between packages,MOVE_RENAME_CLASS,After discussion,Yes
+47407,Refactor modules to prepare for next release,Combination of refactorings,After discussion,Yes
+47615,Refactor modules to prepare for next release,Combination of refactorings,Original intent,Yes
+47997,Refactor modules to prepare for next release,MOVE_SOURCE_FOLDER,Original intent,No
+47620,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47302,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47357,Refactoring confusing code,Combination of refactorings,Original intent,Yes
+48059,Refactoring confusing code,Combination of refactorings,Original intent,Yes
+47407,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47584,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+48024,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47355,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+48032,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47804,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+48043,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47794,Refactoring confusing code,Combination of refactorings,Original intent,Yes
+47574,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47627,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47556,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47785,Refactoring confusing code,Combination of refactorings,Original intent,Yes
+48081,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+48030,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47471,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47796,Refactoring confusing code,Combination of refactorings,After discussion,Yes
+47448,Refactoring confusing code,Combination of refactorings,After discussion,No
+48002,Refactoring confusing code,EXTRACT_AND_MOVE_OPERATION,Original intent,No
+47728,Refactoring confusing code,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
+47273,Refactoring confusing code,EXTRACT_INTERFACE,After discussion,Yes
+47275,Refactoring confusing code,EXTRACT_OPERATION,After discussion,No
+47504,Refactoring confusing code,EXTRACT_VARIABLE,Original intent,No
+47617,Refactoring confusing code,EXTRACT_VARIABLE,After discussion,No
+47595,Refactoring confusing code,EXTRACT_VARIABLE,Original intent,Yes
+47521,Refactoring confusing code,INLINE_VARIABLE,After discussion,No
+47391,Refactoring confusing code,MOVE_ATTRIBUTE,Original intent,Yes
+48061,Refactoring confusing code,MOVE_ATTRIBUTE,Original intent,No
+47410,Refactoring confusing code,RENAME_ATTRIBUTE,After discussion,Yes
+47598,Refactoring confusing code,RENAME_CLASS,After discussion,Yes
+47700,Refactoring confusing code,RENAME_CLASS,After discussion,No
+48082,Refactoring confusing code,RENAME_CLASS,After discussion,Yes
+47683,Refactoring confusing code,RENAME_METHOD,After discussion,Yes
+47727,Refactoring confusing code,RENAME_METHOD,After discussion,Yes
+47423,Refactoring confusing code,RENAME_METHOD,Original intent,No
+48066,Refactoring confusing code,RENAME_METHOD,Original intent,No
+47554,Refactoring confusing code,RENAME_PARAMETER,Original intent,Yes
+48027,Refactoring confusing code,RENAME_VARIABLE,After discussion,Yes
+48080,Refactoring confusing code,RENAME_VARIABLE,After discussion,Yes
+47299,Refactoring confusing code,RENAME_VARIABLE,After discussion,No
+47653,Refactoring confusing code,RENAME_VARIABLE,After discussion,No
+47371,Remove clones,Combination of refactorings,Original intent,Yes
+48059,Remove clones,Combination of refactorings,Original intent,Yes
+47407,Remove clones,Combination of refactorings,After discussion,Yes
+47356,Remove clones,Combination of refactorings,Original intent,Yes
+48031,Remove clones,Combination of refactorings,Original intent,Yes
+47684,Remove clones,Combination of refactorings,Collateral,Yes
+47571,Remove clones,Combination of refactorings,Original intent,No
+47368,Remove clones,Combination of refactorings,Original intent,Yes
+47591,Remove clones,Combination of refactorings,After discussion,Yes
+47617,Remove clones,Combination of refactorings,After discussion,Yes
+47283,Remove clones,Combination of refactorings,After discussion,Yes
+47574,Remove clones,Combination of refactorings,After discussion,Yes
+47321,Remove clones,Combination of refactorings,Original intent,Yes
+47402,Remove clones,Combination of refactorings,Original intent,No
+47422,Remove clones,Combination of refactorings,Original intent,No
+47785,Remove clones,Combination of refactorings,Original intent,Yes
+47358,Remove clones,Combination of refactorings,After discussion,Yes
+47499,Remove clones,Combination of refactorings,Original intent,Yes
+47661,Remove clones,Combination of refactorings,Original intent,Yes
+48008,Remove clones,Combination of refactorings,After discussion,Yes
+47277,Remove clones,Combination of refactorings,Original intent,Yes
+47401,Remove clones,Combination of refactorings,After discussion,Yes
+47586,Remove clones,Combination of refactorings,Original intent,Yes
+48042,Remove clones,Combination of refactorings,After discussion,Yes
+47675,Remove clones,Combination of refactorings,Original intent,Yes
+47641,Remove clones,Combination of refactorings,Original intent,Yes
+47636,Remove clones,Combination of refactorings,Original intent,Yes
+47433,Remove clones,Combination of refactorings,Original intent,Yes
+48040,Remove clones,Combination of refactorings,Original intent,Yes
+47796,Remove clones,Combination of refactorings,After discussion,Yes
+47485,Remove clones,Combination of refactorings,Original intent,Yes
+47569,Remove clones,EXTRACT_AND_MOVE_OPERATION,Original intent,No
+47563,Remove clones,EXTRACT_INTERFACE,After discussion,Yes
+47402,Remove clones,EXTRACT_INTERFACE,Original intent,Yes
+48053,Remove clones,EXTRACT_INTERFACE,Original intent,No
+48053,Remove clones,EXTRACT_INTERFACE,Original intent,No
+47386,Remove clones,EXTRACT_OPERATION,Original intent,No
+47612,Remove clones,EXTRACT_OPERATION,After discussion,Yes
+47799,Remove clones,EXTRACT_OPERATION,Original intent,No
+47804,Remove clones,EXTRACT_OPERATION,After discussion,No
+48029,Remove clones,EXTRACT_OPERATION,Original intent,Yes
+47328,Remove clones,EXTRACT_OPERATION,Original intent,Yes
+47312,Remove clones,EXTRACT_OPERATION,After discussion,Yes
+47425,Remove clones,EXTRACT_OPERATION,Original intent,Yes
+47813,Remove clones,EXTRACT_OPERATION,After discussion,No
+47512,Remove clones,EXTRACT_SUPERCLASS,Collateral,Yes
+47402,Remove clones,EXTRACT_SUPERCLASS,Original intent,No
+47638,Remove clones,EXTRACT_VARIABLE,Collateral,Yes
+47294,Remove clones,INLINE_OPERATION,Original intent,No
+47696,Remove clones,MOVE_OPERATION,Original intent,No
+47512,Remove clones,PULL_UP_OPERATION,Collateral,Yes
+47345,Remove clones,REPLACE_VARIABLE_WITH_ATTRIBUTE,Original intent,Yes
+47285,Remove code smell,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
+47296,Remove code smell,EXTRACT_OPERATION,After discussion,No
+47817,Remove code smell,EXTRACT_OPERATION,After discussion,No
+48031,Remove implicit polymorphism,Combination of refactorings,Original intent,No
+47690,Remove linguistic antipattern,RENAME_METHOD,Original intent,No
+47270,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47604,Remove unnecessary code,Combination of refactorings,Original intent,No
+47393,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47731,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+47683,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47436,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+47762,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47411,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47593,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47415,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+48068,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47804,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47555,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47512,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47576,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47784,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+48069,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+47367,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47651,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47403,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+48048,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47794,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+47649,Remove unnecessary code,Combination of refactorings,After discussion,No
+47758,Remove unnecessary code,Combination of refactorings,Original intent,No
+47446,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+48005,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47800,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47549,Remove unnecessary code,Combination of refactorings,Original intent,No
+48020,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47660,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+47427,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+47635,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+47702,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47329,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+47499,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47998,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47705,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+47492,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47641,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47712,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47816,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+47287,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+48063,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+48017,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47760,Remove unnecessary code,Combination of refactorings,After discussion,Yes
+48028,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47418,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47378,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47481,Remove unnecessary code,Combination of refactorings,Original intent,Yes
+47678,Remove unnecessary code,EXTRACT_OPERATION,Original intent,No
+47643,Remove unnecessary code,EXTRACT_VARIABLE,Original intent,Yes
+48061,Remove unnecessary code,INLINE_OPERATION,Original intent,No
+47508,Remove unnecessary code,NARROW_METHOD_VISIBILITY,After discussion,Yes
+47402,Remove unnecessary code,RENAME_PARAMETER,Original intent,Yes
+47341,Remove unnecessary code,REPLACE_VARIABLE_WITH_ATTRIBUTE,Original intent,Yes
+47402,Remove Unnecessary public variables,NARROW_VARIABLE_VISIBILITY,After discussion,Yes
+47356,Remove unneeded packages,Combination of refactorings,Original intent,Yes
+47794,Remove unneeded packages,MOVE_CLASS,Original intent,No
+47624,Remove unneeded packages,MOVE_CLASS,Original intent,No
+47764,Rename to reflect newly added responsibilities,PULL_UP_ATTRIBUTE,Original intent,Yes
+47598,Rename to reflect newly added responsibilities,RENAME_CLASS,Collateral,Yes
+47268,Rename variables with similar name,RENAME_VARIABLE,After discussion,Yes
+48014,Rename variables with similar name,RENAME_VARIABLE,After discussion,Yes
+47380,To adhere to naming convention,Combination of refactorings,After discussion,Yes
+47562,To adhere to naming convention,Combination of refactorings,After discussion,No
+47407,To adhere to naming convention,Combination of refactorings,After discussion,Yes
+47609,To adhere to naming convention,Combination of refactorings,After discussion,Yes
+47620,To adhere to naming convention,Combination of refactorings,After discussion,Yes
+47427,To adhere to naming convention,Combination of refactorings,After discussion,Yes
+47329,To adhere to naming convention,Combination of refactorings,After discussion,Yes
+47302,To adhere to naming convention,Combination of refactorings,After discussion,Yes
+47525,To adhere to naming convention,Combination of refactorings,After discussion,Yes
+47268,To adhere to naming convention,Combination of refactorings,After discussion,No
+47718,To adhere to naming convention,Combination of refactorings,Original intent,Yes
+47801,To adhere to naming convention,Combination of refactorings,Original intent,Yes
+47796,To adhere to naming convention,Combination of refactorings,After discussion,Yes
+47728,To adhere to naming convention,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
+47750,To adhere to naming convention,INLINE_VARIABLE,Original intent,Yes
+47607,To adhere to naming convention,RENAME_ATTRIBUTE,Original intent,Yes
+47548,To adhere to naming convention,RENAME_CLASS,After discussion,Yes
+47522,To adhere to naming convention,RENAME_CLASS,Original intent,No
+48000,To adhere to naming convention,RENAME_CLASS,After discussion,No
+47508,To adhere to naming convention,RENAME_CLASS,After discussion,Yes
+47402,To adhere to naming convention,RENAME_CLASS,After discussion,Yes
+47757,To adhere to naming convention,RENAME_CLASS,After discussion,Yes
+47703,To adhere to naming convention,RENAME_METHOD,Original intent,Yes
+47517,To adhere to naming convention,RENAME_PACKAGE,After discussion,No
+47402,To adhere to naming convention,RENAME_VARIABLE,After discussion,Yes
+48081,To allow serialization,Combination of refactorings,After discussion,Yes
+47637,To allow serialization,Combination of refactorings,Original intent,Yes
+47594,To allow serialization,EXTRACT_CLASS,Original intent,No
+47585,To allow serialization,EXTRACT_OPERATION,Original intent,Yes
+47384,To allow serialization,MOVE_ATTRIBUTE,After discussion,Yes
+47782,To allow serialization,RENAME_PARAMETER,Original intent,No
+47466,To automate tests,Combination of refactorings,Original intent,No
+47371,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+47731,To better reflect code responsibility,Combination of refactorings,After discussion,Yes
+48057,To better reflect code responsibility,Combination of refactorings,Original intent,No
+48032,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+47356,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+47555,To better reflect code responsibility,Combination of refactorings,Original intent,No
+47606,To better reflect code responsibility,Combination of refactorings,After discussion,Yes
+47701,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+47399,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+48051,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+47634,To better reflect code responsibility,Combination of refactorings,Original intent,No
+47537,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+47651,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+47368,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+48048,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+47785,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+47704,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+47998,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
+48082,To better reflect code responsibility,Combination of refactorings,After discussion,Yes
+48065,To better reflect code responsibility,Combination of refactorings,Original intent,No
+48000,To better reflect code responsibility,MOVE_RENAME_CLASS,After discussion,Yes
+47459,To better reflect code responsibility,RENAME_CLASS,Original intent,No
+47787,To better reflect code responsibility,RENAME_CLASS,Original intent,Yes
+47383,To better reflect code responsibility,RENAME_CLASS,Collateral,Yes
+47643,To better reflect code responsibility,RENAME_CLASS,After discussion,Yes
+47700,To better reflect code responsibility,RENAME_CLASS,After discussion,Yes
+47390,To better reflect code responsibility,RENAME_CLASS,After discussion,Yes
+47703,To better reflect code responsibility,RENAME_METHOD,After discussion,Yes
+48055,To better reflect code responsibility,RENAME_METHOD,After discussion,No
+47620,To better reflect code responsibility,RENAME_METHOD,After discussion,Yes
+47736,To better reflect code responsibility,RENAME_METHOD,After discussion,Yes
+47789,To better reflect code responsibility,RENAME_METHOD,After discussion,Yes
+47275,To better reflect code responsibility,RENAME_METHOD,After discussion,No
+47648,To better reflect code responsibility,RENAME_METHOD,After discussion,No
+47655,To better reflect code responsibility,RENAME_METHOD,Original intent,No
+47294,To better reflect code responsibility,RENAME_METHOD,Original intent,No
+47413,To better reflect code responsibility,RENAME_METHOD,Collateral,Yes
+47397,To better reflect code responsibility,RENAME_PACKAGE,Original intent,No
+47754,To create separate maven artifact,MOVE_SOURCE_FOLDER,Original intent,No
+47644,To create separate maven artifact,RENAME_PACKAGE,Original intent,No
+48051,To ease locating tests,RENAME_CLASS,After discussion,No
+47609,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
+47537,To ensure a better mapping between test & production code,Combination of refactorings,Original intent,Yes
+47367,To ensure a better mapping between test & production code,Combination of refactorings,Original intent,Yes
+47563,To ensure a better mapping between test & production code,Combination of refactorings,Collateral,Yes
+47617,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
+47283,To ensure a better mapping between test & production code,Combination of refactorings,Original intent,Yes
+47329,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
+48010,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
+47661,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
+47268,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
+48081,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
+47271,To ensure a better mapping between test & production code,Combination of refactorings,Original intent,Yes
+47487,To ensure a better mapping between test & production code,Combination of refactorings,Original intent,Yes
+47585,To ensure a better mapping between test & production code,EXTRACT_OPERATION,Original intent,Yes
+47572,To ensure a better mapping between test & production code,EXTRACT_OPERATION,Original intent,No
+47656,To ensure a better mapping between test & production code,EXTRACT_VARIABLE,Original intent,No
+47650,To ensure a better mapping between test & production code,MOVE_OPERATION,After discussion,Yes
+47650,To ensure a better mapping between test & production code,NARROW_METHOD_VISIBILITY,Original intent,Yes
+47717,To ensure a better mapping between test & production code,RENAME_CLASS,Original intent,No
+47787,To expand abbreviations,Combination of refactorings,Original intent,Yes
+47539,To expand abbreviations,Combination of refactorings,Original intent,No
+47375,To expand abbreviations,RENAME_PARAMETER,After discussion,Yes
+47769,To fix typo,Combination of refactorings,After discussion,Yes
+47283,To fix typo,Combination of refactorings,After discussion,Yes
+47430,To fix typo,Combination of refactorings,After discussion,No
+47789,To fix typo,RENAME_ATTRIBUTE,Collateral,Yes
+47756,To fix typo,RENAME_ATTRIBUTE,Original intent,No
+47561,To fix typo,RENAME_ATTRIBUTE,After discussion,No
+47379,To fix typo,RENAME_CLASS,After discussion,No
+47627,To fix typo,RENAME_CLASS,After discussion,Yes
+48082,To fix typo,RENAME_CLASS,After discussion,Yes
+47741,To fix typo,RENAME_METHOD,Original intent,No
+47706,To fix typo,RENAME_METHOD,Collateral,Yes
+47756,To fix typo,RENAME_METHOD,Original intent,No
+47680,To fix typo,RENAME_METHOD,Original intent,No
+47377,To fix typo,RENAME_PACKAGE,After discussion,Yes
+47756,To fix typo,RENAME_PARAMETER,Original intent,No
+48023,To fix typo,RENAME_PARAMETER,After discussion,Yes
+47727,To improve performance,Combination of refactorings,After discussion,Yes
+47584,To improve performance,Combination of refactorings,Original intent,Yes
+47809,To improve performance,Combination of refactorings,Original intent,Yes
+48022,To improve performance,Combination of refactorings,Original intent,Yes
+47306,To improve performance,Combination of refactorings,Original intent,Yes
+47537,To improve performance,Combination of refactorings,Original intent,Yes
+47479,To improve performance,Combination of refactorings,Original intent,Yes
+47794,To improve performance,Combination of refactorings,Original intent,Yes
+48021,To improve performance,Combination of refactorings,After discussion,Yes
+47649,To improve performance,Combination of refactorings,Original intent,Yes
+47361,To improve performance,Combination of refactorings,Collateral,Yes
+47702,To improve performance,Combination of refactorings,Original intent,Yes
+47445,To improve performance,Combination of refactorings,After discussion,Yes
+48039,To improve performance,Combination of refactorings,Original intent,Yes
+47441,To improve performance,Combination of refactorings,After discussion,Yes
+47661,To improve performance,Combination of refactorings,After discussion,Yes
+47401,To improve performance,Combination of refactorings,After discussion,Yes
+47280,To improve performance,Combination of refactorings,Original intent,Yes
+47413,To improve performance,Combination of refactorings,Original intent,Yes
+47271,To improve performance,Combination of refactorings,Original intent,Yes
+47471,To improve performance,Combination of refactorings,After discussion,Yes
+47636,To improve performance,Combination of refactorings,Original intent,Yes
+47418,To improve performance,Combination of refactorings,Original intent,Yes
+47481,To improve performance,Combination of refactorings,Original intent,Yes
+48065,To improve performance,Combination of refactorings,Original intent,No
+47787,To improve performance,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
+47767,To improve performance,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
+47427,To improve performance,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
+47655,To improve performance,EXTRACT_OPERATION,Original intent,No
+47310,To improve performance,EXTRACT_OPERATION,After discussion,Yes
+47738,To improve performance,EXTRACT_OPERATION,Original intent,Yes
+47767,To improve performance,EXTRACT_SUPERCLASS,Original intent,Yes
+48037,To improve performance,MOVE_ATTRIBUTE,Original intent,Yes
+47767,To improve performance,PULL_UP_ATTRIBUTE,Original intent,Yes
+47767,To improve performance,PULL_UP_OPERATION,Original intent,Yes
+47767,To improve performance,RENAME_METHOD,Original intent,Yes
+47767,To improve performance,RENAME_VARIABLE,Original intent,Yes
+47727,To keep consistency in naming,Combination of refactorings,After discussion,Yes
+47769,To keep consistency in naming,Combination of refactorings,After discussion,Yes
+48011,To keep consistency in naming,Combination of refactorings,After discussion,Yes
+47361,To keep consistency in naming,Combination of refactorings,Original intent,Yes
+47704,To keep consistency in naming,Combination of refactorings,After discussion,No
+47302,To keep consistency in naming,Combination of refactorings,After discussion,Yes
+47525,To keep consistency in naming,Combination of refactorings,After discussion,Yes
+47401,To keep consistency in naming,Combination of refactorings,After discussion,Yes
+47378,To keep consistency in naming,Combination of refactorings,After discussion,Yes
+47635,To keep consistency in naming,RENAME_ATTRIBUTE,After discussion,Yes
+47522,To keep consistency in naming,RENAME_CLASS,Original intent,No
+47703,To keep consistency in naming,RENAME_CLASS,After discussion,Yes
+47797,To keep consistency in naming,RENAME_CLASS,Original intent,No
+47398,To keep consistency in naming,RENAME_CLASS,Original intent,No
+48061,To keep consistency in naming,RENAME_CLASS,Original intent,No
+47514,To keep consistency in naming,RENAME_METHOD,After discussion,Yes
+47685,To keep consistency in naming,RENAME_METHOD,After discussion,Yes
+47620,To keep consistency in naming,RENAME_METHOD,After discussion,No
+47312,To keep consistency in naming,RENAME_METHOD,After discussion,Yes
+47467,To keep consistency in naming,RENAME_METHOD,Original intent,No
+47652,To keep consistency in naming,RENAME_METHOD,Original intent,Yes
+48061,To keep consistency in naming,RENAME_METHOD,Original intent,No
+47653,To keep consistency in naming,RENAME_METHOD,After discussion,No
+47292,To keep consistency in naming,RENAME_METHOD,Collateral,Yes
+47288,To keep consistency in naming,RENAME_METHOD,After discussion,Yes
+47517,To keep consistency in naming,RENAME_PACKAGE,After discussion,Yes
+47365,To keep consistency in naming,RENAME_PARAMETER,Original intent,No
+48044,To keep consistency in naming,RENAME_PARAMETER,After discussion,Yes
+47398,To keep consistency in naming,RENAME_PARAMETER,Original intent,No
+48061,To keep consistency in naming,RENAME_PARAMETER,Original intent,No
+47480,To keep consistency in naming,RENAME_PARAMETER,Original intent,No
+47342,To keep consistency in naming,RENAME_VARIABLE,After discussion,No
+47620,To keep consistency in naming,RENAME_VARIABLE,After discussion,Yes
+47398,To keep consistency in naming,RENAME_VARIABLE,Original intent,No
+47398,To keep consistency in naming,REPLACE_ATTRIBUTE,Original intent,No
+48008,To keep consistency in naming,REPLACE_ATTRIBUTE,After discussion,Yes
+47584,To promote API compatibility,Combination of refactorings,After discussion,Yes
+48055,To promote API compatibility,Combination of refactorings,After discussion,Yes
+48044,To promote API compatibility,Combination of refactorings,After discussion,No
+47638,To promote API compatibility,EXTRACT_VARIABLE,Collateral,Yes
+47509,To promote API compatibility,MOVE_CLASS,Original intent,Yes
+47787,To promote API compatibility,PARAMETERIZE_VARIABLE,Original intent,Yes
+47292,To promote API compatibility,RENAME_METHOD,Original intent,Yes
+47644,To promote API compatibility,RENAME_PACKAGE,Original intent,No
+47434,To remove flacky tests,MOVE_OPERATION,Original intent,No
+48043,To shorten identifiers,RENAME_PARAMETER,Collateral,No
+47371,To simplify API usage,Combination of refactorings,Original intent,Yes
+47479,To simplify API usage,Combination of refactorings,Original intent,Yes
+47640,To simplify API usage,EXTRACT_OPERATION,Original intent,Yes
+47521,To simplify API usage,EXTRACT_OPERATION,After discussion,No
+47804,To simplify testing activities,Combination of refactorings,After discussion,Yes
+48051,To simplify testing activities,Combination of refactorings,Original intent,Yes
+47537,To simplify testing activities,Combination of refactorings,Original intent,Yes
+47387,To simplify testing activities,Combination of refactorings,Original intent,Yes
+47376,To simplify testing activities,Combination of refactorings,Collateral,Yes
+47487,To simplify testing activities,Combination of refactorings,Original intent,Yes
+47443,To simplify testing activities,EXTRACT_OPERATION,Original intent,Yes
+47663,To simplify testing activities,EXTRACT_OPERATION,Original intent,Yes
+48081,To simplify testing activities,EXTRACT_OPERATION,After discussion,Yes
+47572,To simplify testing activities,EXTRACT_OPERATION,Original intent,No
+47692,To simplify testing activities,PULL_UP_OPERATION,Original intent,No
+47692,To simplify testing for client projects,PULL_UP_OPERATION,Original intent,No
+47411,To support third-party tools,Combination of refactorings,Original intent,Yes
+47791,To support third-party tools,INLINE_OPERATION,Original intent,No
+47722,To support third-party tools,MOVE_SOURCE_FOLDER,Original intent,No
+48041,To use more generic names,Combination of refactorings,Original intent,No
+47689,To use more generic names,RENAME_CLASS,Original intent,Yes
+47354,To use more specific names,Combination of refactorings,Original intent,No
+48021,To use more specific names,RENAME_ATTRIBUTE,After discussion,No
+47442,To use more specific names,RENAME_ATTRIBUTE,Original intent,Yes
+47459,To use more specific names,RENAME_CLASS,Original intent,No
+48000,To use more specific names,RENAME_CLASS,After discussion,No
+47404,To use more specific names,RENAME_CLASS,After discussion,Yes
+47269,To use more specific names,RENAME_METHOD,After discussion,Yes
+47691,To use more specific names,RENAME_METHOD,After discussion,No
+47445,To use more specific names,RENAME_METHOD,After discussion,Yes
+47710,To use more specific names,RENAME_METHOD,Original intent,Yes
+47269,To use more specific names,RENAME_PARAMETER,After discussion,Yes
+47621,To use more specific names,RENAME_VARIABLE,After discussion,Yes
+47269,To use more specific names,RENAME_VARIABLE,After discussion,Yes
+47595,To use more specific names,RENAME_VARIABLE,Original intent,Yes
+47781,Unclear,Combination of refactorings,Original intent,No
+47557,Unclear,Combination of refactorings,Original intent,No
+47687,Unclear,Combination of refactorings,Original intent,Yes
+47660,Unclear,Combination of refactorings,After discussion,Yes
+47629,Unclear,Combination of refactorings,Original intent,No
+47705,Unclear,Combination of refactorings,After discussion,Yes
+48063,Unclear,Combination of refactorings,Original intent,Yes
+47699,Unclear,Combination of refactorings,Original intent,No
+47581,Unclear,Combination of refactorings,Collateral,Yes
 47658,Unclear,Combination of refactorings,Collateral,Yes
-48058,Implementation of new feature,EXTRACT_OPERATION,Original intent,No
 48073,Unclear,Combination of refactorings,Collateral,Yes
 48073,Unclear,Combination of refactorings,Collateral,Yes
 47688,Unclear,Combination of refactorings,Original intent,Yes
 47374,Unclear,Combination of refactorings,Collateral,Yes
 48012,Unclear,Combination of refactorings,Collateral,Yes
-47807,False positive,Combination of refactorings,Original intent,Yes
 47673,Unclear,Combination of refactorings,Collateral,Yes
-47771,Understandability & Readability,RENAME_METHOD,Original intent,No
-47771,Understandability & Readability,RENAME_METHOD,Original intent,No
-47583,Better distribution of responsibilities,MOVE_CLASS,Original intent,No
-47515,Cleanup code,Combination of refactorings,Original intent,Yes
-48076,Unclear,MOVE_OPERATION,Original intent,Yes
 47451,Unclear,Combination of refactorings,Original intent,Yes
-47782,Refactoring to allow serialization,RENAME_PARAMETER,Original intent,No
-47270,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47477,False positive,Combination of refactorings,Original intent,Yes
-47455,Cleanup code,Combination of refactorings,Original intent,Yes
-47386,Remove clones,EXTRACT_OPERATION,Original intent,No
-48007,Promote project coding style,MOVE_ATTRIBUTE,After discussion,Yes
 47311,Unclear,Combination of refactorings,Collateral,Yes
-47768,Understandability & Readability,Combination of refactorings,Original intent,No
 47657,Unclear,Combination of refactorings,Original intent,Yes
-47380,To adhere to naming convention,Combination of refactorings,After discussion,Yes
 47698,Unclear,Combination of refactorings,Original intent,Yes
 47551,Unclear,Combination of refactorings,Collateral,Yes
 47737,Unclear,Combination of refactorings,Original intent,Yes
-47357,Simplify code,Combination of refactorings,Original intent,Yes
-47546,Cleanup code,Combination of refactorings,Original intent,No
 47373,Unclear,Combination of refactorings,Original intent,Yes
 47394,Unclear,Combination of refactorings,Collateral,Yes
-47526,Understandability & Readability,Combination of refactorings,Collateral,Yes
 47488,Unclear,Combination of refactorings,Collateral,Yes
 47587,Unclear,Combination of refactorings,Collateral,Yes
-48050,Unclear,EXTRACT_OPERATION,Original intent,Yes
-47558,Understandability & Readability,Combination of refactorings,After discussion,No
 47409,Unclear,Combination of refactorings,Collateral,Yes
 47316,Unclear,Combination of refactorings,Original intent,No
 48038,Unclear,Combination of refactorings,Original intent,Yes
-47630,Renaming,RENAME_ATTRIBUTE,After discussion,Yes
 47553,Unclear,Combination of refactorings,Collateral,Yes
-47604,Remove unnecessary code,Combination of refactorings,Original intent,No
-47679,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
 47590,Unclear,Combination of refactorings,Collateral,Yes
 47453,Unclear,Combination of refactorings,Collateral,Yes
-47770,Understandability & Readability,EXTRACT_OPERATION,After discussion,No
-47570,Unclear,RENAME_ATTRIBUTE,Original intent,Yes
-47570,Unclear,MOVE_ATTRIBUTE,Collateral,No
 47724,Unclear,Combination of refactorings,Collateral,Yes
-47608,Reduce coupling between packages,Combination of refactorings,Original intent,No
-47524,Understandability & Readability,RENAME_CLASS,After discussion,No
-47749,Understandability & Readability,Combination of refactorings,Original intent,Yes
-48037,Improve performance,MOVE_ATTRIBUTE,Original intent,Yes
-47396,Unclear,EXTRACT_VARIABLE,Collateral,Yes
-47342,To keep consistency in naming,RENAME_VARIABLE,After discussion,No
-47622,Unclear,RENAME_PARAMETER,Collateral,Yes
-47686,Reduce coupling between packages,MOVE_RENAME_CLASS,After discussion,Yes
 47805,Unclear,Combination of refactorings,Original intent,Yes
-47640,Refactoring to simplify API usage,EXTRACT_OPERATION,Original intent,Yes
 47668,Unclear,Combination of refactorings,Original intent,Yes
 47669,Unclear,Combination of refactorings,Original intent,Yes
-47577,False positive,RENAME_CLASS,Original intent,No
 47421,Unclear,Combination of refactorings,Collateral,Yes
 47751,Unclear,Combination of refactorings,Collateral,Yes
-48041,To use more generic names,Combination of refactorings,Original intent,No
-47755,Unclear,RENAME_METHOD,Original intent,Yes
-47811,Understandability & Readability,RENAME_METHOD,After discussion,Yes
 47761,Unclear,Combination of refactorings,Original intent,Yes
-47714,Cleanup code,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
 48072,Unclear,Combination of refactorings,Original intent,Yes
 47405,Unclear,Combination of refactorings,Collateral,Yes
-47474,Foster code reuse,Combination of refactorings,Original intent,No
 47468,Unclear,Combination of refactorings,Collateral,Yes
-47786,Understandability & Readability,Combination of refactorings,Original intent,No
-47532,Cleanup code,Combination of refactorings,Collateral,Yes
-47466,To automate tests,Combination of refactorings,Original intent,No
-47662,Allow reuse from subclass,EXTRACT_OPERATION,Original intent,Yes
-47371,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47371,Introducing/extracting interface to facilitate API usage,Combination of refactorings,Original intent,Yes
-47371,By extracting interface,Combination of refactorings,Original intent,Yes
-47371,Remove clones,Combination of refactorings,Original intent,Yes
-47371,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47371,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-47296,Remove code smell,EXTRACT_OPERATION,After discussion,No
-47296,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47296,Understandability & Readability,RENAME_CLASS,After discussion,Yes
-47623,Cleanup code,MOVE_CLASS,Original intent,No
-47623,To better reflect code responsibility,MOVE_CLASS,Original intent,No
-47817,Remove code smell,EXTRACT_OPERATION,After discussion,No
-47647,Implementation of new feature,Combination of refactorings,Collateral,Yes
-47647,Better distribution of responsibilities,EXTRACT_OPERATION,Original intent,No
-47647,Refactoring test code,EXTRACT_OPERATION,Original intent,No
-47647,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
-47639,Cleanup code,Combination of refactorings,Original intent,No
 47314,Unclear,Combination of refactorings,Original intent,Yes
-47393,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47393,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47393,Cleanup code,Combination of refactorings,Original intent,Yes
-47393,Remove unnecessary code,Combination of refactorings,Original intent,Yes
 47420,Unclear,Combination of refactorings,Original intent,Yes
-47420,Renaming,REPLACE_ATTRIBUTE,Original intent,No
-47286,Improve exception handling,RENAME_CLASS,Original intent,No
-47286,Understandability & Readability,RENAME_CLASS,Original intent,No
-48018,Cleanup code,EXTRACT_VARIABLE,Original intent,No
-47562,Understandability & Readability,Combination of refactorings,After discussion,No
-47562,To adhere to naming convention,Combination of refactorings,After discussion,No
-47562,Fix warnings from static analysis tools,Combination of refactorings,Original intent,No
-47548,To adhere to naming convention,RENAME_CLASS,After discussion,Yes
-47781,Enhancements,Combination of refactorings,Original intent,No
-47781,By extracting interface,Combination of refactorings,Original intent,No
-48059,Remove clones,Combination of refactorings,Original intent,Yes
-48059,Cleanup code,Combination of refactorings,Original intent,Yes
-48059,Simplify code,Combination of refactorings,Original intent,Yes
-48059,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47731,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47731,Renaming,Combination of refactorings,After discussion,Yes
-47731,Cleanup code,Combination of refactorings,After discussion,Yes
-47731,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47731,To better reflect code responsibility,Combination of refactorings,After discussion,Yes
-48062,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
-48062,Better distribution of responsibilities,EXTRACT_OPERATION,Original intent,Yes
-48062,Cleanup code,Combination of refactorings,Original intent,Yes
-48062,Understandability & Readability,RENAME_VARIABLE,Original intent,Yes
-48062,Improve modularization,EXTRACT_OPERATION,After discussion,Yes
-47683,Refactoring confusing code,RENAME_METHOD,After discussion,Yes
-47683,Maintainability,Combination of refactorings,Original intent,Yes
-47683,Improve extensibility,Combination of refactorings,Original intent,Yes
-47683,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47683,Foster code reuse,Combination of refactorings,Original intent,Yes
-47727,To keep consistency in naming,Combination of refactorings,After discussion,Yes
-47727,Improve exception handling,Combination of refactorings,After discussion,Yes
-47727,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47727,Improve performance,Combination of refactorings,After discussion,Yes
-47727,Refactoring confusing code,RENAME_METHOD,After discussion,Yes
-48057,To better reflect code responsibility,Combination of refactorings,Original intent,No
-48057,Foster code reuse,Combination of refactorings,Original intent,No
-47470,Cleanup code,Combination of refactorings,Original intent,No
-47497,Implementation of new feature,MOVE_SOURCE_FOLDER,Original intent,No
-47497,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47812,Refactoring test code,Combination of refactorings,After discussion,Yes
-47463,Cleanup code,Combination of refactorings,Original intent,Yes
-47612,Composition over inheritance,RENAME_CLASS,After discussion,Yes
-47612,By extracting interface,RENAME_CLASS,After discussion,Yes
-47612,Composition over inheritance,MOVE_ATTRIBUTE,After discussion,Yes
-47612,Remove clones,EXTRACT_OPERATION,After discussion,Yes
-47665,Maintainability,MOVE_ATTRIBUTE,Original intent,Yes
-47665,Maintainability,RENAME_CLASS,After discussion,No
-47665,Understandability & Readability,RENAME_CLASS,After discussion,Yes
-47665,Maintainability,EXTRACT_INTERFACE,After discussion,Yes
-47665,Understandability & Readability,RENAME_CLASS,After discussion,No
-47665,Maintainability,EXTRACT_INTERFACE,After discussion,No
-47665,Maintainability,MOVE_ATTRIBUTE,After discussion,No
-47665,Improve extensibility,EXTRACT_INTERFACE,After discussion,Yes
-47665,Understandability & Readability,EXTRACT_INTERFACE,After discussion,Yes
-47293,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47775,Understandability & Readability,RENAME_CLASS,After discussion,Yes
-47775,Improve extensibility,Combination of refactorings,Original intent,No
-47719,Understandability & Readability,EXTRACT_OPERATION,After discussion,No
-47719,Enhancements,EXTRACT_OPERATION,After discussion,No
-47732,Understandability & Readability,RENAME_METHOD,After discussion,Yes
-47522,To adhere to naming convention,RENAME_CLASS,Original intent,No
-47522,To keep consistency in naming,RENAME_CLASS,Original intent,No
-47407,To adhere to naming convention,Combination of refactorings,After discussion,Yes
-47407,Remove clones,Combination of refactorings,After discussion,Yes
-47407,Simplify code,Combination of refactorings,After discussion,Yes
-47407,Refactor modules to prepare for next release,Combination of refactorings,After discussion,Yes
-47584,Simplify code,Combination of refactorings,After discussion,Yes
-47584,Improve performance,Combination of refactorings,Original intent,Yes
-47584,Refactoring to promote API compatibility,Combination of refactorings,After discussion,Yes
-47346,Understandability & Readability,RENAME_METHOD,Original intent,Yes
-47346,Understandability & Readability,RENAME_VARIABLE,Original intent,Yes
-47346,Improve extensibility,Combination of refactorings,Original intent,No
-47436,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47391,Cleanup code,MOVE_ATTRIBUTE,Original intent,Yes
-47391,Simplify code,MOVE_ATTRIBUTE,Original intent,Yes
-47391,Better distribution of responsibilities,MOVE_ATTRIBUTE,Original intent,No
-47799,Remove clones,EXTRACT_OPERATION,Original intent,No
-47799,Foster code reuse,EXTRACT_OPERATION,Original intent,No
-47695,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47695,Improve extensibility,EXTRACT_OPERATION,Original intent,Yes
-48024,Simplify code,Combination of refactorings,After discussion,Yes
-47762,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47762,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47762,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-48084,Implementation of new feature,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
-48084,Implementation of new feature,NARROW_METHOD_VISIBILITY,Original intent,Yes
-47443,To simplify testing activities,EXTRACT_OPERATION,Original intent,Yes
-47443,Foster code reuse,EXTRACT_OPERATION,Original intent,No
 47301,Unclear,Combination of refactorings,Original intent,No
-47411,Refactoring to support third-party tools,Combination of refactorings,Original intent,Yes
-47411,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47411,Massive package reorganization,Combination of refactorings,Original intent,Yes
-47593,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47593,Cleanup code,Combination of refactorings,Original intent,Yes
-47593,Foster code reuse,Combination of refactorings,Original intent,Yes
-47459,To use more specific names,RENAME_CLASS,Original intent,No
-47459,Promote project coding style,RENAME_CLASS,After discussion,No
-47459,Understandability & Readability,RENAME_CLASS,Original intent,No
-47459,To better reflect code responsibility,RENAME_CLASS,Original intent,No
-47385,Improve error messages and logging,RENAME_CLASS,Original intent,No
-47385,Understandability & Readability,RENAME_METHOD,Original intent,No
-47385,Enhancements,RENAME_CLASS,Original intent,No
-47385,Enhancements,RENAME_ATTRIBUTE,Original intent,No
-47385,Improve error messages and logging,RENAME_ATTRIBUTE,Original intent,No
-47469,Massive package reorganization,Combination of refactorings,Original intent,Yes
-47469,Improve error messages and logging,Combination of refactorings,Original intent,Yes
-47469,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-47469,Cleanup code,Combination of refactorings,Original intent,Yes
-47415,Cleanup code,NARROW_METHOD_VISIBILITY,After discussion,No
-47415,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47415,Improve exception handling,Combination of refactorings,After discussion,Yes
-47415,Minimize public interface,NARROW_METHOD_VISIBILITY,After discussion,No
-47355,Improve exception handling,Combination of refactorings,After discussion,Yes
-47355,Cleanup code,Combination of refactorings,After discussion,Yes
-47355,Simplify code,Combination of refactorings,After discussion,Yes
-47355,Promote project coding style,Combination of refactorings,After discussion,Yes
-47696,Better distribution of responsibilities,MOVE_OPERATION,Original intent,No
-47696,Remove clones,MOVE_OPERATION,Original intent,No
-48068,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47365,Promote project coding style,RENAME_PARAMETER,Original intent,No
-47365,To keep consistency in naming,RENAME_PARAMETER,Original intent,No
-47279,Understandability & Readability,RENAME_METHOD,Original intent,No
-48032,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-48032,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-48032,Cleanup code,Combination of refactorings,Original intent,Yes
-48032,Understandability & Readability,Combination of refactorings,Original intent,Yes
-48032,Simplify code,Combination of refactorings,After discussion,Yes
-47514,To keep consistency in naming,RENAME_METHOD,After discussion,Yes
-47514,Better distribution of responsibilities,MOVE_CLASS,Collateral,Yes
-47663,To simplify testing activities,EXTRACT_OPERATION,Original intent,Yes
-47663,Better distribution of responsibilities,EXTRACT_OPERATION,Original intent,Yes
-47663,Understandability & Readability,RENAME_METHOD,After discussion,Yes
-47663,Improve exception handling,EXTRACT_OPERATION,After discussion,Yes
-47557,Implementation of new feature,RENAME_ATTRIBUTE,Collateral,No
-47557,Maintainability,Combination of refactorings,Original intent,No
-47557,Enhancements,Combination of refactorings,Original intent,No
-47356,Better distribution of responsibilities,MOVE_CLASS,Original intent,No
-47356,Remove clones,Combination of refactorings,Original intent,Yes
-47356,Foster code reuse,Combination of refactorings,Original intent,Yes
-47356,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-47356,Create a more cohesive package,Combination of refactorings,Original intent,Yes
-47356,Massive package reorganization,Combination of refactorings,Original intent,Yes
-47356,Remove unneeded packages,Combination of refactorings,Original intent,Yes
 47461,Unclear,Combination of refactorings,Collateral,Yes
-48083,Understandability & Readability,EXTRACT_OPERATION,Original intent,Yes
-47434,Foster code reuse,MOVE_OPERATION,Original intent,No
-47434,To remove flacky tests,MOVE_OPERATION,Original intent,No
-47628,Implementation of new feature,EXTRACT_OPERATION,Original intent,No
-47804,Remove clones,EXTRACT_OPERATION,After discussion,No
-47804,Improve exception handling,Combination of refactorings,Original intent,Yes
-47804,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47804,To simplify testing activities,Combination of refactorings,After discussion,Yes
-47804,Simplify code,Combination of refactorings,After discussion,Yes
-47685,Improve exception handling,EXTRACT_OPERATION,Original intent,Yes
-47685,To keep consistency in naming,RENAME_METHOD,After discussion,Yes
-47309,Understandability & Readability,RENAME_PARAMETER,Original intent,No
-47309,Better distribution of responsibilities,Combination of refactorings,Original intent,No
-47555,Refactoring test code,EXTRACT_OPERATION,Original intent,Yes
-47555,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47555,To better reflect code responsibility,Combination of refactorings,Original intent,No
-47454,Better distribution of responsibilities,Combination of refactorings,Original intent,No
-47454,Implementation of new feature,Combination of refactorings,Original intent,No
-47687,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47687,Enhancements,Combination of refactorings,Original intent,Yes
-47541,Understandability & Readability,EXTRACT_VARIABLE,Original intent,Yes
-48054,Better distribution of responsibilities,MOVE_ATTRIBUTE,Original intent,No
-48054,Better distribution of responsibilities,MOVE_OPERATION,Original intent,No
-48054,Better distribution of responsibilities,EXTRACT_AND_MOVE_OPERATION,Original intent,No
-47746,Improve extensibility,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
-48071,Cleanup code,Combination of refactorings,Original intent,Yes
-48071,Improve error messages and logging,INLINE_VARIABLE,After discussion,Yes
-47606,To better reflect code responsibility,Combination of refactorings,After discussion,Yes
-47606,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47606,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47606,Cleanup code,Combination of refactorings,After discussion,Yes
-47606,Better distribution of responsibilities,PULL_UP_OPERATION,After discussion,Yes
-47337,Better distribution of responsibilities,EXTRACT_OPERATION,Collateral,Yes
-47423,Improve exception handling,RENAME_METHOD,After discussion,No
-47423,Refactoring confusing code,RENAME_METHOD,Original intent,No
-47423,Understandability & Readability,RENAME_METHOD,Original intent,No
-48013,Maintainability,EXTRACT_INTERFACE,Original intent,No
-48013,Allow reuse from subclass,EXTRACT_INTERFACE,Original intent,No
-48013,Improve extensibility,EXTRACT_INTERFACE,Original intent,Yes
-47787,To better reflect code responsibility,RENAME_CLASS,Original intent,Yes
-47787,Improve performance,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
-47787,To expand acronyms,Combination of refactorings,Original intent,Yes
-47787,Refactoring to promote API compatibility,PARAMETERIZE_VARIABLE,Original intent,Yes
-47787,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-47689,Better distribution of responsibilities,MOVE_OPERATION,Original intent,Yes
-47689,To use more generic names,RENAME_CLASS,Original intent,Yes
-47689,Foster code reuse,EXTRACT_SUBCLASS,Original intent,Yes
-47689,Allow reuse from subclass,Combination of refactorings,Original intent,Yes
-47689,Foster code reuse,Combination of refactorings,Original intent,Yes
-47689,Cleanup code,Combination of refactorings,Original intent,Yes
 48077,Unclear,Combination of refactorings,Collateral,Yes
-47703,To adhere to naming convention,RENAME_METHOD,Original intent,Yes
-47703,To keep consistency in naming,RENAME_CLASS,After discussion,Yes
-47703,Improve modularization,Combination of refactorings,After discussion,Yes
-47703,To better reflect code responsibility,RENAME_METHOD,After discussion,Yes
-48029,Remove clones,EXTRACT_OPERATION,Original intent,Yes
-48029,Cleanup code,EXTRACT_OPERATION,Original intent,Yes
-48029,Understandability & Readability,EXTRACT_OPERATION,Original intent,Yes
-47512,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47512,Cleanup code,Combination of refactorings,Original intent,Yes
-47512,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47512,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47512,Remove clones,PULL_UP_OPERATION,Collateral,Yes
-47512,Remove clones,EXTRACT_SUPERCLASS,Collateral,Yes
-47809,Improve performance,Combination of refactorings,Original intent,Yes
-47701,Cleanup code,Combination of refactorings,Original intent,Yes
-47701,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-48002,Simplify code,EXTRACT_AND_MOVE_OPERATION,Original intent,No
-48002,Foster code reuse,EXTRACT_AND_MOVE_OPERATION,Original intent,No
-47741,Understandability & Readability,RENAME_METHOD,Original intent,No
-47741,To fix typo,RENAME_METHOD,Original intent,No
-48043,To shorten identifier,RENAME_PARAMETER,Collateral,No
-48043,Understandability & Readability,RENAME_ATTRIBUTE,After discussion,No
-48043,Promote project coding style,EXTRACT_AND_MOVE_OPERATION,After discussion,No
-48043,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-48043,Create a more cohesive package,Combination of refactorings,Original intent,Yes
-48043,Foster code reuse,Combination of refactorings,Original intent,Yes
-48043,Simplify code,Combination of refactorings,After discussion,Yes
 47582,Unclear,Combination of refactorings,Collateral,Yes
 47713,Unclear,Combination of refactorings,Collateral,Yes
-47399,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-48055,To better reflect code responsibility,RENAME_METHOD,After discussion,No
-48055,Promote type safety,EXTRACT_INTERFACE,After discussion,Yes
-48055,Refactoring to promote API compatibility,Combination of refactorings,After discussion,Yes
-47726,Other,EXTRACT_VARIABLE,Collateral,No
-47726,Understandability & Readability,RENAME_VARIABLE,Collateral,Yes
-47726,Refactoring previously introduced/modified code,RENAME_VARIABLE,After discussion,Yes
-48066,Simplify code,RENAME_METHOD,Original intent,No
-47298,Improve error messages and logging,Combination of refactorings,Original intent,Yes
-48031,Maintainability,Combination of refactorings,Original intent,Yes
-48031,Remove clones,Combination of refactorings,Original intent,Yes
-48031,Remove implicit polymorphism,Combination of refactorings,Original intent,No
-48031,Cleanup code,Combination of refactorings,Original intent,No
-48031,Understandability & Readability,Combination of refactorings,Original intent,No
-48022,Implementation of new feature,Combination of refactorings,Original intent,Yes
-48022,Improve performance,Combination of refactorings,Original intent,Yes
-47576,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47576,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47576,Cleanup code,Combination of refactorings,Original intent,Yes
-47576,Maintainability,Combination of refactorings,Original intent,Yes
-47576,Improve error messages and logging,Combination of refactorings,Original intent,Yes
-47328,Cleanup code,EXTRACT_OPERATION,Original intent,Yes
-47328,Understandability & Readability,EXTRACT_OPERATION,Original intent,Yes
-47328,Remove clones,EXTRACT_OPERATION,Original intent,Yes
-47351,Foster code reuse,EXTRACT_OPERATION,Collateral,No
-47517,To adhere to naming convention,RENAME_PACKAGE,After discussion,No
-47517,To keep consistency in naming,RENAME_PACKAGE,After discussion,Yes
 47435,Unclear,Combination of refactorings,Collateral,Yes
-47609,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47609,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47609,Promote project coding style,Combination of refactorings,After discussion,Yes
-47609,To adhere to naming convention,Combination of refactorings,After discussion,Yes
-47609,Cleanup code,Combination of refactorings,After discussion,Yes
-47609,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
-47609,Refactoring test code,Combination of refactorings,After discussion,Yes
-47449,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
-47449,To better reflect code responsibility,EXTRACT_OPERATION,Original intent,Yes
-47449,Understandability & Readability,EXTRACT_OPERATION,After discussion,No
-47306,Improve performance,Combination of refactorings,Original intent,Yes
-47306,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47734,Understandability & Readability,RENAME_METHOD,After discussion,Yes
-47734,Other,RENAME_METHOD,Original intent,Yes
-47621,Understandability & Readability,RENAME_VARIABLE,After discussion,Yes
-47621,To use more specific names,RENAME_VARIABLE,After discussion,Yes
-47278,Prevent bugs,Combination of refactorings,Original intent,No
-47278,Understandability & Readability,Combination of refactorings,Original intent,No
-47269,To use more specific names,RENAME_METHOD,After discussion,Yes
-47269,To use more specific names,RENAME_VARIABLE,After discussion,Yes
-47269,To use more specific names,RENAME_PARAMETER,After discussion,Yes
-47331,Understandability & Readability,Combination of refactorings,Original intent,Yes
-48051,To ease locating tests,RENAME_CLASS,After discussion,No
-48051,Encapsulation,Combination of refactorings,Original intent,Yes
-48051,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-48051,To simplify testing activities,Combination of refactorings,Original intent,Yes
-48051,Understandability & Readability,EXTRACT_OPERATION,After discussion,Yes
 47720,Unclear,Combination of refactorings,Original intent,Yes
-47722,Refactoring to support third-party tools,MOVE_SOURCE_FOLDER,Original intent,No
-47722,Other,MOVE_SOURCE_FOLDER,Original intent,No
-47650,Improve organization of test directory,MOVE_OPERATION,After discussion,Yes
-47650,To ensure a better mapping between test & production code,MOVE_OPERATION,After discussion,Yes
-47650,To ensure a better mapping between test & production code,NARROW_METHOD_VISIBILITY,Original intent,Yes
-47650,Promote project coding style,NARROW_METHOD_VISIBILITY,Original intent,Yes
-47366,Unclear,EXTRACT_OPERATION,Original intent,Yes
-47338,Improve extensibility,Combination of refactorings,Original intent,No
-47338,Facilitate subclassing,EXTRACT_OPERATION,Original intent,No
-47599,Cleanup code,Combination of refactorings,Original intent,Yes
-47784,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47784,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47620,Renaming,RENAME_ATTRIBUTE,After discussion,Yes
-47620,To keep consistency in naming,RENAME_METHOD,After discussion,No
-47620,Introduce generalization,EXTRACT_INTERFACE,Original intent,No
-47620,To adhere to naming convention,Combination of refactorings,After discussion,Yes
-47620,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47620,To better reflect code responsibility,RENAME_METHOD,After discussion,Yes
-47620,To keep consistency in naming,RENAME_VARIABLE,After discussion,Yes
-47620,Refactoring confusing code,Combination of refactorings,After discussion,Yes
-47634,Understandability & Readability,Combination of refactorings,Original intent,No
-47634,To better reflect code responsibility,Combination of refactorings,Original intent,No
 47501,Unclear,Combination of refactorings,Collateral,Yes
-47764,Rename to reflect newly added responsibilities,PULL_UP_ATTRIBUTE,Original intent,Yes
-47764,To better reflect code responsibility,PULL_UP_ATTRIBUTE,Original intent,Yes
-47537,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-47537,Improve performance,Combination of refactorings,Original intent,Yes
-47537,Foster code reuse,Combination of refactorings,Original intent,Yes
-47537,To simplify testing activities,Combination of refactorings,Original intent,Yes
-47537,To ensure a better mapping between test & production code,Combination of refactorings,Original intent,Yes
-47537,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47810,Implementation of new feature,RENAME_VARIABLE,Original intent,Yes
-48069,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-48069,Foster code reuse,EXTRACT_VARIABLE,Collateral,Yes
-47684,Refactoring previously introduced/modified code,Combination of refactorings,Collateral,Yes
-47684,Remove clones,Combination of refactorings,Collateral,Yes
-47452,Refactoring previously introduced/modified code,EXTRACT_VARIABLE,Collateral,Yes
-47452,Understandability & Readability,RENAME_ATTRIBUTE,After discussion,Yes
-47327,Understandability & Readability,RENAME_ATTRIBUTE,Original intent,No
-47327,Improve extensibility,Combination of refactorings,Original intent,No
-47645,Promote project coding style,MOVE_CLASS,After discussion,No
-47645,Better distribution of responsibilities,MOVE_CLASS,Original intent,No
-47645,To better reflect code responsibility,MOVE_CLASS,After discussion,No
-47645,Cleanup code,MOVE_CLASS,After discussion,No
-47571,Remove clones,Combination of refactorings,Original intent,No
-47571,Changed type hierarchy,EXTRACT_INTERFACE,Collateral,Yes
-47367,To ensure a better mapping between test & production code,Combination of refactorings,Original intent,Yes
-47367,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47815,Understandability & Readability,INLINE_OPERATION,Original intent,No
-47815,Cleanup code,INLINE_OPERATION,Original intent,No
-47332,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47563,To ensure a better mapping between test & production code,Combination of refactorings,Collateral,Yes
-47563,Composition over inheritance,EXTRACT_INTERFACE,Collateral,Yes
-47563,Understandability & Readability,RENAME_CLASS,Collateral,Yes
-47563,Implementation of new feature,Combination of refactorings,Collateral,Yes
-47563,Remove clones,EXTRACT_INTERFACE,After discussion,Yes
-47563,By extracting interface,EXTRACT_INTERFACE,After discussion,Yes
-47797,Other,MOVE_CLASS,Original intent,No
-47797,To keep consistency in naming,RENAME_CLASS,Original intent,No
-47797,Improve exception handling,Combination of refactorings,Original intent,Yes
-47797,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47651,Better distribution of responsibilities,MOVE_OPERATION,Original intent,No
-47651,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-47651,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47272,Better distribution of responsibilities,Combination of refactorings,Original intent,No
-47272,Foster code reuse,Combination of refactorings,Original intent,No
-47664,Maintainability,EXTRACT_OPERATION,Original intent,Yes
-47368,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-47368,Remove clones,Combination of refactorings,Original intent,Yes
-47368,Cleanup code,Combination of refactorings,Original intent,Yes
-47368,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47368,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-47368,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47403,Cleanup code,Combination of refactorings,Original intent,Yes
-47403,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47769,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47769,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47769,Improve exception handling,Combination of refactorings,After discussion,Yes
-47769,Refactoring previously introduced/modified code,Combination of refactorings,After discussion,Yes
-47769,To fix typo,Combination of refactorings,After discussion,Yes
-47769,To keep consistency in naming,Combination of refactorings,After discussion,Yes
-47297,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-48036,Cleanup code,EXTRACT_VARIABLE,Original intent,Yes
-48048,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-48048,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-48048,Foster code reuse,Combination of refactorings,Original intent,Yes
-48048,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47339,Better distribution of responsibilities,MOVE_ATTRIBUTE,Collateral,Yes
-47535,Improve organization of test directory,MOVE_CLASS,Original intent,No
 47552,Unclear,Combination of refactorings,Collateral,Yes
-47274,Other,Combination of refactorings,Original intent,Yes
-47619,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47619,Understandability & Readability,Combination of refactorings,After discussion,Yes
-48000,To use more specific names,RENAME_CLASS,After discussion,No
-48000,To adhere to naming convention,RENAME_CLASS,After discussion,No
-48000,Better distribution of responsibilities,EXTRACT_CLASS,After discussion,No
-48000,To better reflect code responsibility,MOVE_RENAME_CLASS,After discussion,Yes
-47569,Remove clones,EXTRACT_AND_MOVE_OPERATION,Original intent,No
-47569,Improve modularization,EXTRACT_AND_MOVE_OPERATION,Original intent,No
-47569,Foster code reuse,EXTRACT_AND_MOVE_OPERATION,Original intent,No
-47717,Promote project coding style,RENAME_CLASS,Original intent,No
-47717,To ensure a better mapping between test & production code,RENAME_CLASS,Original intent,No
-47717,Cleanup code,RENAME_CLASS,Original intent,No
-47479,Promote project coding style,Combination of refactorings,Original intent,Yes
-47479,Improve performance,Combination of refactorings,Original intent,Yes
-47479,Refactoring to simplify API usage,Combination of refactorings,Original intent,Yes
-47479,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47447,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47267,Refactoring previously introduced/modified code,EXTRACT_VARIABLE,Original intent,Yes
-47794,Understandability & Readability,RENAME_ATTRIBUTE,Original intent,No
-47794,Understandability & Readability,REPLACE_VARIABLE_WITH_ATTRIBUTE,Original intent,No
-47794,Remove unneeded packages,MOVE_CLASS,Original intent,No
-47794,Maintainability,Combination of refactorings,Original intent,Yes
-47794,Improve performance,Combination of refactorings,Original intent,Yes
-47794,Simplify code,Combination of refactorings,Original intent,Yes
-47794,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47794,Understandability & Readability,Combination of refactorings,After discussion,Yes
-48021,To use more specific names,RENAME_ATTRIBUTE,After discussion,No
-48021,Improve performance,Combination of refactorings,After discussion,Yes
-48021,Understandability & Readability,Combination of refactorings,After discussion,Yes
-48021,Cleanup code,Combination of refactorings,After discussion,Yes
-47591,Better distribution of responsibilities,PULL_UP_OPERATION,After discussion,Yes
-47591,Improve extensibility,Combination of refactorings,Original intent,Yes
-47591,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47591,Remove clones,Combination of refactorings,After discussion,Yes
-47631,Implementation of new feature,EXTRACT_OPERATION,Original intent,No
-47631,Implementation of new feature,RENAME_METHOD,Original intent,No
-47631,Foster code reuse,EXTRACT_VARIABLE,After discussion,Yes
-47631,Understandability & Readability,EXTRACT_OPERATION,Original intent,Yes
-47429,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47736,To better reflect code responsibility,RENAME_METHOD,After discussion,Yes
-47638,Refactoring to promote API compatibility,EXTRACT_VARIABLE,Collateral,Yes
-47638,Maintainability,EXTRACT_VARIABLE,Collateral,Yes
-47638,Remove clones,EXTRACT_VARIABLE,Collateral,Yes
-47638,Foster code reuse,EXTRACT_VARIABLE,After discussion,Yes
-48025,Cleanup code,Combination of refactorings,Original intent,Yes
-48025,Improve error messages and logging,Combination of refactorings,Original intent,Yes
-47649,Improve performance,Combination of refactorings,Original intent,Yes
-47649,Remove unnecessary code,Combination of refactorings,After discussion,No
-47506,Bug fixing,Combination of refactorings,Original intent,No
-47504,Foster code reuse,EXTRACT_VARIABLE,Original intent,No
-47504,Understandability & Readability,EXTRACT_VARIABLE,Original intent,No
-47504,Refactoring confusing code,EXTRACT_VARIABLE,Original intent,No
-47644,Refactoring to promote API compatibility,RENAME_PACKAGE,Original intent,No
-47644,Refactoring to create separate maven artifact,RENAME_PACKAGE,Original intent,No
-47644,Massive package reorganization,MOVE_CLASS,Original intent,No
-47462,Implementation of new feature,EXTRACT_OPERATION,Original intent,Yes
-47462,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
-48011,To keep consistency in naming,Combination of refactorings,After discussion,Yes
-48011,Cleanup code,Combination of refactorings,After discussion,Yes
-47305,Understandability & Readability,EXTRACT_OPERATION,Original intent,No
-47305,Unclear,EXTRACT_AND_MOVE_OPERATION,Original intent,No
-47671,Better distribution of responsibilities,MOVE_CLASS,Original intent,Yes
-47671,Cleanup code,MOVE_CLASS,Original intent,Yes
-47528,Cleanup code,Combination of refactorings,Original intent,Yes
-47303,Allow reuse from subclass,Combination of refactorings,After discussion,Yes
-47303,Facilitate subclassing,Combination of refactorings,After discussion,Yes
-47617,Renaming,RENAME_METHOD,After discussion,No
-47617,Simplify code,EXTRACT_VARIABLE,After discussion,No
-47617,Promote project coding style,Combination of refactorings,After discussion,Yes
-47617,Major changes to code design,Combination of refactorings,After discussion,Yes
-47617,Implementation of new feature,Combination of refactorings,After discussion,Yes
-47617,Improve exception handling,Combination of refactorings,After discussion,Yes
-47617,Remove clones,Combination of refactorings,After discussion,Yes
-47617,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
-47617,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47758,Remove unnecessary code,Combination of refactorings,Original intent,No
-47758,Bug fixing,EXTRACT_VARIABLE,Original intent,No
-47758,Cleanup code,Combination of refactorings,Original intent,No
-48052,Other,EXTRACT_OPERATION,Original intent,No
-47283,Foster code reuse,Combination of refactorings,Original intent,Yes
-47283,Improve exception handling,Combination of refactorings,Original intent,Yes
-47283,Cleanup code,NARROW_METHOD_VISIBILITY,Original intent,Yes
-47283,To ensure a better mapping between test & production code,Combination of refactorings,Original intent,Yes
-47283,Remove clones,Combination of refactorings,After discussion,Yes
-47283,To fix typo,Combination of refactorings,After discussion,Yes
-47283,Maintainability,Combination of refactorings,Original intent,Yes
-48004,Improve extensibility,Combination of refactorings,Original intent,Yes
-47299,Simplify code,RENAME_VARIABLE,After discussion,No
-47299,Understandability & Readability,RENAME_METHOD,After discussion,No
-47299,Understandability & Readability,RENAME_ATTRIBUTE,After discussion,No
-47299,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47446,Improve extensibility,EXTRACT_OPERATION,Original intent,Yes
-47446,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47446,Cleanup code,Combination of refactorings,Original intent,Yes
-47594,Prepare code for major refactoring,MOVE_CLASS,Original intent,No
-47594,Refactoring to allow serialization,EXTRACT_CLASS,Original intent,No
-47594,To better reflect code responsibility,EXTRACT_CLASS,Original intent,No
-47706,To fix typo,RENAME_METHOD,Collateral,Yes
 47388,Unclear,Combination of refactorings,Original intent,No
-48005,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-48005,Prepare code for major refactoring,Combination of refactorings,Original intent,Yes
-47574,Remove clones,Combination of refactorings,After discussion,Yes
-47574,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47574,Simplify code,Combination of refactorings,After discussion,Yes
-47614,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47614,Better distribution of responsibilities,EXTRACT_OPERATION,Original intent,Yes
-47614,Refactoring previously introduced/modified code,EXTRACT_OPERATION,Original intent,Yes
-47789,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-47789,To better reflect code responsibility,RENAME_METHOD,After discussion,Yes
-47789,To fix typo,RENAME_ATTRIBUTE,Collateral,Yes
-47417,False positive,Combination of refactorings,Original intent,Yes
-47508,Remove unnecessary code,NARROW_METHOD_VISIBILITY,After discussion,Yes
-47508,To adhere to naming convention,RENAME_CLASS,After discussion,Yes
-47800,Cleanup code,Combination of refactorings,Original intent,Yes
-47800,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47404,To use more specific names,RENAME_CLASS,After discussion,Yes
-47321,Remove clones,Combination of refactorings,Original intent,Yes
-47691,To use more specific names,RENAME_METHOD,After discussion,No
 47472,Unclear,Combination of refactorings,Original intent,Yes
-47489,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47500,Better distribution of responsibilities,EXTRACT_AND_MOVE_OPERATION,Original intent,No
-47410,Refactoring confusing code,RENAME_ATTRIBUTE,After discussion,Yes
-47735,Understandability & Readability,EXTRACT_VARIABLE,Original intent,Yes
-47756,To fix typo,RENAME_ATTRIBUTE,Original intent,No
-47756,To fix typo,RENAME_PARAMETER,Original intent,No
-47756,To fix typo,RENAME_METHOD,Original intent,No
-47549,Remove unnecessary code,Combination of refactorings,Original intent,No
-47520,False positive,Combination of refactorings,Original intent,Yes
-47326,Create a more cohesive package,Combination of refactorings,Original intent,No
-47326,Improve modularization,Combination of refactorings,Original intent,No
-47600,Improve modularization,MOVE_CLASS,After discussion,Yes
-47600,Create a more cohesive package,MOVE_CLASS,After discussion,Yes
-47345,Remove clones,REPLACE_VARIABLE_WITH_ATTRIBUTE,Original intent,Yes
-47345,Cleanup code,REPLACE_VARIABLE_WITH_ATTRIBUTE,Original intent,No
-47792,False positive,Combination of refactorings,Original intent,Yes
-47579,Improve modularization,MOVE_CLASS,After discussion,No
-47579,Understandability & Readability,RENAME_METHOD,After discussion,Yes
-47579,Better distribution of responsibilities,EXTRACT_INTERFACE,Collateral,No
 47748,Unclear,Combination of refactorings,Collateral,Yes
-48075,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-47999,Foster code reuse,REPLACE_VARIABLE_WITH_ATTRIBUTE,After discussion,No
-47997,Implementation of new feature,Combination of refactorings,Original intent,No
-47997,Refactor modules to prepare for next release,MOVE_SOURCE_FOLDER,Original intent,No
-47282,Major changes to code design,Combination of refactorings,Original intent,Yes
-47383,To better reflect code responsibility,RENAME_CLASS,Collateral,Yes
 47773,Unclear,Combination of refactorings,Collateral,No
 47495,Unclear,Combination of refactorings,Original intent,No
-47362,Understandability & Readability,RENAME_METHOD,Original intent,Yes
-48006,Promote project coding style,Combination of refactorings,After discussion,Yes
-48049,Understandability & Readability,EXTRACT_CLASS,After discussion,Yes
 47538,Unclear,Combination of refactorings,Collateral,Yes
-47384,Refactoring to allow serialization,MOVE_ATTRIBUTE,After discussion,Yes
-47384,Better distribution of responsibilities,MOVE_OPERATION,After discussion,Yes
-47739,Improve extensibility,EXTRACT_OPERATION,Original intent,No
-47458,Understandability & Readability,Combination of refactorings,Collateral,Yes
-47387,Foster code reuse,EXTRACT_OPERATION,Collateral,No
-47387,To simplify testing activities,Combination of refactorings,Original intent,Yes
-47387,Cleanup code,Combination of refactorings,Original intent,Yes
-47402,Remove clones,EXTRACT_INTERFACE,Original intent,Yes
-47402,Remove clones,EXTRACT_SUPERCLASS,Original intent,No
-47402,To adhere to naming convention,RENAME_VARIABLE,After discussion,Yes
-47402,Unnecessarily public variables,NARROW_VARIABLE_VISIBILITY,After discussion,Yes
-47402,To adhere to naming convention,RENAME_CLASS,After discussion,Yes
-47402,Understandability & Readability,INLINE_VARIABLE,Collateral,Yes
-47402,Remove clones,Combination of refactorings,Original intent,No
-47402,Remove unnecessary code,RENAME_PARAMETER,Original intent,Yes
-47402,Cleanup code,Combination of refactorings,Original intent,Yes
-48023,To fix typo,RENAME_PARAMETER,After discussion,Yes
 47729,Unclear,Combination of refactorings,Collateral,Yes
-47729,Promote project coding style,RENAME_METHOD,Original intent,Yes
-47312,To keep consistency in naming,RENAME_METHOD,After discussion,Yes
-47312,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
-47312,Understandability & Readability,EXTRACT_OPERATION,After discussion,Yes
-47312,Remove clones,EXTRACT_OPERATION,After discussion,Yes
-47467,To keep consistency in naming,RENAME_METHOD,Original intent,No
-47573,Understandability & Readability,RENAME_METHOD,Original intent,No
 47494,Unclear,Combination of refactorings,Collateral,Yes
-47291,Enhancements,EXTRACT_SUPERCLASS,Original intent,Yes
-47291,Maintainability,EXTRACT_SUPERCLASS,Original intent,Yes
-47348,Maintainability,EXTRACT_OPERATION,After discussion,Yes
-47598,Refactoring confusing code,RENAME_CLASS,After discussion,Yes
-47598,Rename to reflect newly added responsibilities,RENAME_CLASS,Collateral,Yes
-47354,To use more specific names,Combination of refactorings,Original intent,No
-47643,To better reflect code responsibility,RENAME_CLASS,After discussion,Yes
-47643,Remove unnecessary code,EXTRACT_VARIABLE,Original intent,Yes
-47382,Understandability & Readability,RENAME_CLASS,Original intent,Yes
-47382,Bug fixing,MOVE_RENAME_CLASS,After discussion,Yes
-47382,Bug fixing,RENAME_METHOD,After discussion,Yes
-47382,Bug fixing,RENAME_VARIABLE,After discussion,Yes
-47382,Refactoring previously introduced/modified code,RENAME_CLASS,After discussion,Yes
-47382,Refactoring previously introduced/modified code,RENAME_VARIABLE,After discussion,Yes
-47382,Composition over inheritance,RENAME_METHOD,After discussion,No
-47382,Refactoring previously introduced/modified code,RENAME_METHOD,After discussion,Yes
-47382,Refactoring previously introduced/modified code,EXTRACT_OPERATION,After discussion,Yes
-48020,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-48020,Promote project coding style,RENAME_ATTRIBUTE,Original intent,No
-47610,Modularize API,MOVE_CLASS,Original intent,Yes
-47285,Refactoring test code,Combination of refactorings,After discussion,Yes
-47285,Understandability & Readability,RENAME_ATTRIBUTE,After discussion,Yes
-47285,Remove code smell,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
-47322,To better reflect code responsibility,MOVE_CLASS,Original intent,Yes
-47322,Better distribution of responsibilities,Combination of refactorings,After discussion,Yes
-47486,Improve extensibility,EXTRACT_SUPERCLASS,Original intent,Yes
-47486,Improve extensibility,PULL_UP_OPERATION,Original intent,Yes
-47503,False positive,Combination of refactorings,Original intent,Yes
-47379,To fix typo,RENAME_CLASS,After discussion,No
-47379,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
-47379,To better reflect code responsibility,EXTRACT_OPERATION,After discussion,Yes
-47659,Other,EXTRACT_OPERATION,Original intent,Yes
-47667,Foster code reuse,EXTRACT_AND_MOVE_OPERATION,Original intent,No
-47667,Better distribution of responsibilities,EXTRACT_AND_MOVE_OPERATION,Original intent,No
-48044,To keep consistency in naming,RENAME_PARAMETER,After discussion,Yes
-48044,Refactoring to promote API compatibility,Combination of refactorings,After discussion,No
-47398,To keep consistency in naming,RENAME_CLASS,Original intent,No
-47398,To keep consistency in naming,REPLACE_ATTRIBUTE,Original intent,No
-47398,To keep consistency in naming,RENAME_PARAMETER,Original intent,No
-47398,To keep consistency in naming,RENAME_VARIABLE,Original intent,No
-47398,Introduce design pattern,NARROW_METHOD_VISIBILITY,After discussion,No
-47398,Create a more cohesive package,MOVE_CLASS,Collateral,No
-47398,Better distribution of responsibilities,Combination of refactorings,After discussion,Yes
-47398,Introduce design pattern,Combination of refactorings,After discussion,Yes
-47398,Cleanup code,Combination of refactorings,After discussion,Yes
-47652,To keep consistency in naming,RENAME_METHOD,Original intent,Yes
-48061,To keep consistency in naming,RENAME_CLASS,Original intent,No
-48061,To keep consistency in naming,RENAME_METHOD,Original intent,No
-48061,To keep consistency in naming,RENAME_PARAMETER,Original intent,No
-48061,Remove unnecessary code,INLINE_OPERATION,Original intent,No
-48061,Simplify code,MOVE_ATTRIBUTE,Original intent,No
-48061,Prepare code for going open source,Combination of refactorings,Original intent,Yes
-47700,Improve exception handling,EXTRACT_CLASS,Original intent,No
-47700,Refactoring confusing code,RENAME_CLASS,After discussion,No
-47700,Minimize public interface,MOVE_CLASS,After discussion,No
-47700,Improve exception handling,EXTRACT_CLASS,After discussion,Yes
-47700,To better reflect code responsibility,RENAME_CLASS,After discussion,Yes
-47680,To fix typo,RENAME_METHOD,Original intent,No
-47680,Bug fixing,EXTRACT_VARIABLE,Collateral,Yes
-47275,Simplify code,EXTRACT_OPERATION,After discussion,No
-47275,To better reflect code responsibility,RENAME_METHOD,After discussion,No
-47648,To better reflect code responsibility,RENAME_METHOD,After discussion,No
-47660,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47660,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47660,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47660,Enhancements,Combination of refactorings,After discussion,Yes
-47660,Maintainability,Combination of refactorings,After discussion,Yes
-47615,Refactor modules to prepare for next release,Combination of refactorings,Original intent,Yes
-47615,Improve exception handling,Combination of refactorings,Original intent,Yes
-47615,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47615,Cleanup code,Combination of refactorings,Original intent,Yes
-47615,Massive package reorganization,MOVE_SOURCE_FOLDER,Original intent,Yes
 47534,Unclear,Combination of refactorings,Collateral,Yes
-47625,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47422,Remove clones,Combination of refactorings,Original intent,No
-47422,Understandability & Readability,Combination of refactorings,Original intent,No
-47422,Better distribution of responsibilities,Combination of refactorings,Original intent,No
-47422,Cleanup code,Combination of refactorings,Original intent,No
-47767,Understandability & Readability,RENAME_VARIABLE,Original intent,Yes
-47767,Understandability & Readability,RENAME_METHOD,Original intent,Yes
-47767,Understandability & Readability,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
-47767,Improve performance,EXTRACT_SUPERCLASS,Original intent,Yes
-47767,Understandability & Readability,EXTRACT_SUPERCLASS,Original intent,Yes
-47767,Improve performance,EXTRACT_AND_MOVE_OPERATION,Original intent,Yes
-47767,Improve performance,RENAME_METHOD,Original intent,Yes
-47767,Improve performance,RENAME_VARIABLE,Original intent,Yes
-47767,Understandability & Readability,PULL_UP_OPERATION,Original intent,Yes
-47767,Improve performance,PULL_UP_OPERATION,Original intent,Yes
-47767,Improve performance,PULL_UP_ATTRIBUTE,Original intent,Yes
-47767,Understandability & Readability,PULL_UP_ATTRIBUTE,Original intent,Yes
-48046,Understandability & Readability,Combination of refactorings,Original intent,No
-48046,By extracting interface,Combination of refactorings,Original intent,Yes
-47788,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47788,Understandability & Readability,RENAME_VARIABLE,Collateral,Yes
-47788,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47788,To better reflect code responsibility,EXTRACT_OPERATION,After discussion,Yes
-47496,Other,Combination of refactorings,Original intent,No
-47629,Cleanup code,Combination of refactorings,Original intent,No
-47629,Enhancements,Combination of refactorings,Original intent,No
-47361,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47361,To keep consistency in naming,Combination of refactorings,Original intent,Yes
-47361,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-47361,Overriding over inheritance,Combination of refactorings,Original intent,Yes
-47361,Improve performance,Combination of refactorings,Collateral,Yes
-47361,Improve extensibility,RENAME_VARIABLE,Collateral,Yes
-47642,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47642,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47642,Cleanup code,Combination of refactorings,After discussion,Yes
-47740,Better distribution of responsibilities,Combination of refactorings,After discussion,Yes
-47655,Improve performance,EXTRACT_OPERATION,Original intent,No
-47655,To better reflect code responsibility,RENAME_METHOD,Original intent,No
-47427,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47427,To adhere to naming convention,Combination of refactorings,After discussion,Yes
-47427,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47427,Improve performance,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
-47561,To fix typo,RENAME_ATTRIBUTE,After discussion,No
-47561,Better distribution of responsibilities,MOVE_OPERATION,After discussion,Yes
-47783,Understandability & Readability,RENAME_PARAMETER,After discussion,Yes
-47783,Understandability & Readability,EXTRACT_VARIABLE,Original intent,Yes
-47635,Other,Combination of refactorings,Original intent,Yes
-47635,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47635,Cleanup code,Combination of refactorings,After discussion,Yes
-47635,To keep consistency in naming,RENAME_ATTRIBUTE,After discussion,Yes
-47627,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47627,Encapsulation,Combination of refactorings,After discussion,Yes
-47627,Improve exception handling,Combination of refactorings,After discussion,Yes
-47627,Foster code reuse,Combination of refactorings,After discussion,Yes
-47627,Simplify code,Combination of refactorings,After discussion,Yes
-47627,To fix typo,RENAME_CLASS,After discussion,Yes
-47289,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-47672,Cleanup code,EXTRACT_VARIABLE,Original intent,Yes
-47672,Maintainability,Combination of refactorings,Original intent,No
-48027,Refactoring confusing code,RENAME_VARIABLE,After discussion,Yes
-48078,Improve error messages and logging,Combination of refactorings,Original intent,Yes
-48078,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47765,Improve error messages and logging,EXTRACT_VARIABLE,Collateral,Yes
-47765,Improve exception handling,EXTRACT_VARIABLE,Collateral,Yes
-47633,Refactoring previously introduced/modified code,EXTRACT_OPERATION,After discussion,Yes
-47539,To expand acronyms,Combination of refactorings,Original intent,No
-47556,Cleanup code,Combination of refactorings,After discussion,Yes
-47556,Simplify code,Combination of refactorings,After discussion,Yes
-47702,Improve performance,Combination of refactorings,Original intent,Yes
-47702,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47709,Cleanup code,EXTRACT_OPERATION,Original intent,Yes
-47329,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
-47329,To adhere to naming convention,Combination of refactorings,After discussion,Yes
-47329,Maintainability,Combination of refactorings,After discussion,Yes
-47329,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47329,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47329,Better distribution of responsibilities,Combination of refactorings,After discussion,Yes
-48015,DRY principle,EXTRACT_OPERATION,Original intent,Yes
-48015,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
-47575,Refactoring test code,MOVE_OPERATION,Original intent,No
-48034,Understandability & Readability,EXTRACT_OPERATION,Original intent,No
-48034,Foster code reuse,EXTRACT_OPERATION,Original intent,No
-47445,Improve performance,Combination of refactorings,After discussion,Yes
-47445,Improve extensibility,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
-47445,To use more specific names,RENAME_METHOD,After discussion,Yes
-47785,Other,Combination of refactorings,Original intent,Yes
-47785,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47785,Simplify code,Combination of refactorings,Original intent,Yes
-47785,Remove clones,Combination of refactorings,Original intent,Yes
-47785,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-47785,Fix warnings from static analysis tools,Combination of refactorings,Original intent,Yes
-47785,Maintainability,Combination of refactorings,Original intent,Yes
-47457,Foster code reuse,Combination of refactorings,Original intent,Yes
-47704,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-47704,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47704,To keep consistency in naming,Combination of refactorings,After discussion,No
-48039,Improve performance,Combination of refactorings,Original intent,Yes
-48039,Cleanup code,Combination of refactorings,Original intent,Yes
-47723,Cleanup code,Combination of refactorings,Original intent,Yes
-47426,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47707,Cleanup code,Combination of refactorings,Original intent,Yes
-47335,Refactoring test code,EXTRACT_SUPERCLASS,Original intent,No
-48010,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
-47441,Cleanup code,Combination of refactorings,Original intent,Yes
-47441,Refactoring test code,Combination of refactorings,Original intent,Yes
-47441,Improve performance,Combination of refactorings,After discussion,Yes
-47674,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-47674,Cleanup code,Combination of refactorings,Collateral,Yes
-47654,Unclear,EXTRACT_OPERATION,Collateral,Yes
-47654,Unclear,MOVE_ATTRIBUTE,After discussion,No
-47654,Understandability & Readability,RENAME_METHOD,After discussion,Yes
-47654,Refactoring previously introduced/modified code,Combination of refactorings,After discussion,Yes
-48080,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
-48080,Better distribution of responsibilities,EXTRACT_OPERATION,After discussion,Yes
-48080,Refactoring confusing code,RENAME_VARIABLE,After discussion,Yes
-48056,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-48056,Understandability & Readability,Combination of refactorings,Original intent,Yes
-48056,Cleanup code,Combination of refactorings,Original intent,Yes
-48056,Modularize API,MOVE_CLASS,Original intent,Yes
-47653,To keep consistency in naming,RENAME_METHOD,After discussion,No
-47653,Improve exception handling,Combination of refactorings,After discussion,Yes
-47653,Simplify code,RENAME_VARIABLE,After discussion,No
-47653,Understandability & Readability,RENAME_METHOD,After discussion,Yes
-47302,To keep consistency in naming,Combination of refactorings,After discussion,Yes
-47302,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47302,To adhere to naming convention,Combination of refactorings,After discussion,Yes
-47302,Refactoring confusing code,Combination of refactorings,After discussion,Yes
-47302,Cleanup code,Combination of refactorings,After discussion,Yes
-47334,Improve exception handling,Combination of refactorings,Original intent,Yes
-47334,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47334,Cleanup code,Combination of refactorings,Original intent,Yes
-47358,Remove clones,Combination of refactorings,After discussion,Yes
-47358,Cleanup code,Combination of refactorings,After discussion,Yes
-47349,Refactoring previously introduced/modified code,Combination of refactorings,Collateral,Yes
-47442,To use more specific names,RENAME_ATTRIBUTE,Original intent,Yes
-47529,Maintainability,Combination of refactorings,Original intent,Yes
-47529,Foster code reuse,Combination of refactorings,Original intent,Yes
-47529,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47529,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-48035,To better reflect code responsibility,EXTRACT_OPERATION,Original intent,Yes
-47499,Refactoring test code,Combination of refactorings,Original intent,Yes
-47499,Remove clones,Combination of refactorings,Original intent,Yes
-47499,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47499,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47438,Cleanup code,NARROW_METHOD_VISIBILITY,Original intent,No
-47438,Cleanup code,EXTRACT_OPERATION,Original intent,No
-47438,Fix warnings from static analysis tools,Combination of refactorings,Original intent,Yes
-47543,Understandability & Readability,EXTRACT_OPERATION,After discussion,Yes
-47661,Remove clones,Combination of refactorings,Original intent,Yes
-47661,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47661,Improve performance,Combination of refactorings,After discussion,Yes
-47661,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
-47661,Refactoring test code,Combination of refactorings,After discussion,Yes
-47661,Better distribution of responsibilities,Combination of refactorings,Original intent,No
-48008,To keep consistency in naming,REPLACE_ATTRIBUTE,After discussion,Yes
-48008,Understandability & Readability,Combination of refactorings,After discussion,Yes
-48008,Remove clones,Combination of refactorings,After discussion,Yes
-48008,Cleanup code,RENAME_ATTRIBUTE,After discussion,No
-47710,To use more specific names,RENAME_METHOD,Original intent,Yes
-47998,Cleanup code,Combination of refactorings,Original intent,Yes
-47998,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47998,To better reflect code responsibility,Combination of refactorings,Original intent,Yes
-47646,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47511,Cleanup code,Combination of refactorings,Original intent,Yes
-48009,Refactoring previously introduced/modified code,MOVE_ATTRIBUTE,Collateral,Yes
-47525,Better distribution of responsibilities,RENAME_ATTRIBUTE,After discussion,Yes
-47525,To keep consistency in naming,Combination of refactorings,After discussion,Yes
-47525,To adhere to naming convention,Combination of refactorings,After discussion,Yes
-47277,Remove clones,Combination of refactorings,Original intent,Yes
-47277,Fix warnings from static analysis tools,Combination of refactorings,Original intent,Yes
-47793,Unclear,EXTRACT_VARIABLE,Original intent,No
-47401,Improve exception handling,Combination of refactorings,After discussion,Yes
-47401,Improve performance,Combination of refactorings,After discussion,Yes
-47401,Remove clones,Combination of refactorings,After discussion,Yes
-47401,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47401,To keep consistency in naming,Combination of refactorings,After discussion,Yes
-47401,Better distribution of responsibilities,Combination of refactorings,After discussion,Yes
-47586,Remove clones,Combination of refactorings,Original intent,Yes
-47586,Cleanup code,MOVE_ATTRIBUTE,After discussion,Yes
-47586,Cleanup code,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
-47430,Foster code reuse,Combination of refactorings,Original intent,Yes
-47430,Cleanup code,Combination of refactorings,After discussion,Yes
-47430,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47430,To fix typo,Combination of refactorings,After discussion,No
-48042,Refactoring previously introduced/modified code,PULL_UP_OPERATION,After discussion,Yes
-48042,Remove clones,Combination of refactorings,After discussion,Yes
-47675,Remove clones,Combination of refactorings,Original intent,Yes
-47304,Cleanup code,EXTRACT_OPERATION,Original intent,No
-47304,Understandability & Readability,EXTRACT_OPERATION,Original intent,No
-47509,Refactoring to promote API compatibility,MOVE_CLASS,Original intent,Yes
-47509,Understandability & Readability,MOVE_CLASS,Original intent,Yes
-47330,Fix warnings from static analysis tools,Combination of refactorings,Original intent,No
-47341,Better distribution of responsibilities,REPLACE_VARIABLE_WITH_ATTRIBUTE,Original intent,Yes
-47341,Remove unnecessary code,REPLACE_VARIABLE_WITH_ATTRIBUTE,Original intent,Yes
-47268,Promote project coding style,RENAME_ATTRIBUTE,After discussion,No
-47268,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
-47268,Refactoring previously introduced/modified code,Combination of refactorings,After discussion,Yes
-47268,To adhere to naming convention,Combination of refactorings,After discussion,No
-47268,Rename variables with similar name,RENAME_VARIABLE,After discussion,Yes
-47480,Cleanup code,RENAME_METHOD,Original intent,Yes
-47480,Understandability & Readability,RENAME_METHOD,Original intent,Yes
-47480,To keep consistency in naming,RENAME_PARAMETER,Original intent,No
-47292,Refactoring to promote API compatibility,RENAME_METHOD,Original intent,Yes
-47292,To keep consistency in naming,RENAME_METHOD,Collateral,Yes
-47425,Cleanup code,Combination of refactorings,Original intent,Yes
-47425,Better distribution of responsibilities,MOVE_ATTRIBUTE,Original intent,Yes
-47425,Remove clones,EXTRACT_OPERATION,Original intent,Yes
-47310,Improve performance,EXTRACT_OPERATION,After discussion,Yes
-47310,Cleanup code,EXTRACT_OPERATION,After discussion,Yes
-47802,Understandability & Readability,Combination of refactorings,Original intent,No
-47728,Simplify code,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
-47728,To adhere to naming convention,EXTRACT_AND_MOVE_OPERATION,After discussion,Yes
-47484,Understandability & Readability,Combination of refactorings,Original intent,No
-48081,Simplify code,Combination of refactorings,After discussion,Yes
-48081,Understandability & Readability,Combination of refactorings,After discussion,Yes
-48081,Refactoring to allow serialization,Combination of refactorings,After discussion,Yes
-48081,To ensure a better mapping between test & production code,Combination of refactorings,After discussion,Yes
-48081,To simplify testing activities,EXTRACT_OPERATION,After discussion,Yes
-48045,Improve modularization,EXTRACT_OPERATION,After discussion,Yes
-48045,Understandability & Readability,RENAME_METHOD,Original intent,Yes
-47498,Cleanup code,Combination of refactorings,Original intent,Yes
-47498,Refactoring test code,Combination of refactorings,After discussion,Yes
-47288,To keep consistency in naming,RENAME_METHOD,After discussion,Yes
-48033,Maintainability,EXTRACT_OPERATION,After discussion,Yes
-47656,To ensure a better mapping between test & production code,EXTRACT_VARIABLE,Original intent,No
-47656,Foster code reuse,Combination of refactorings,Original intent,Yes
-47595,To use more specific names,RENAME_VARIABLE,Original intent,Yes
-47595,Simplify code,EXTRACT_VARIABLE,Original intent,Yes
-47595,Cleanup code,Combination of refactorings,Original intent,Yes
-48026,Improve error messages and logging,MOVE_CLASS,Original intent,No
-48026,Improve error messages and logging,MOVE_OPERATION,Original intent,No
-48060,Understandability & Readability,EXTRACT_OPERATION,Original intent,No
-48060,Maintainability,EXTRACT_OPERATION,Original intent,No
-48060,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
-47408,Improve modularization,MOVE_CLASS,After discussion,Yes
-47408,Improve error messages and logging,MOVE_CLASS,After discussion,Yes
-47363,Cleanup code,INLINE_VARIABLE,After discussion,Yes
-47607,Understandability & Readability,RENAME_PACKAGE,Original intent,Yes
-47607,To adhere to naming convention,RENAME_ATTRIBUTE,Original intent,Yes
-47607,Refactoring test code,Combination of refactorings,Original intent,Yes
-47416,Refactoring test code,Combination of refactorings,Original intent,Yes
-47416,Better distribution of responsibilities,Combination of refactorings,After discussion,Yes
-47705,Enhancements,Combination of refactorings,After discussion,Yes
-47705,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47705,Refactoring previously introduced/modified code,Combination of refactorings,Collateral,Yes
-47813,Better distribution of responsibilities,EXTRACT_OPERATION,After discussion,No
-47813,Remove clones,EXTRACT_OPERATION,After discussion,No
-47492,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47492,Cleanup code,EXTRACT_OPERATION,Original intent,Yes
-47716,Implementation of new feature,Combination of refactorings,Original intent,No
-47716,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,No
-47716,Improve modularization,Combination of refactorings,Original intent,Yes
-47798,Other,Combination of refactorings,After discussion,Yes
-48014,Rename variables with similar name,RENAME_VARIABLE,After discussion,Yes
-47333,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
 47491,Unclear,Combination of refactorings,Collateral,Yes
-48019,Cleanup code,Combination of refactorings,Original intent,Yes
-48019,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47400,Allow reuse from subclass,Combination of refactorings,Original intent,Yes
-47400,Facilitate subclassing,Combination of refactorings,Original intent,Yes
-47400,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47400,Maintainability,EXTRACT_SUPERCLASS,After discussion,Yes
-47300,Cleanup code,Combination of refactorings,Original intent,Yes
-48030,Introduce design pattern,Combination of refactorings,After discussion,Yes
-48030,Simplify code,Combination of refactorings,After discussion,Yes
-48030,Cleanup code,Combination of refactorings,After discussion,Yes
-47397,To better reflect code responsibility,RENAME_PACKAGE,Original intent,No
-47533,Cleanup code,Combination of refactorings,Original intent,Yes
-47533,Improve error messages and logging,Combination of refactorings,Original intent,Yes
-47280,Improve performance,Combination of refactorings,Original intent,Yes
-47280,Improve exception handling,Combination of refactorings,After discussion,Yes
-47280,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47280,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47280,Improve extensibility,Combination of refactorings,After discussion,Yes
-47375,To expand acronyms,RENAME_PARAMETER,After discussion,Yes
-47692,To simplify testing activities,PULL_UP_OPERATION,Original intent,No
-47692,To simplify testing for client projects,PULL_UP_OPERATION,Original intent,No
-47743,Improve extensibility,PULL_UP_ATTRIBUTE,Original intent,Yes
-48053,By extracting interface,EXTRACT_INTERFACE,Original intent,No
-48053,Improve extensibility,EXTRACT_INTERFACE,Original intent,No
-48053,Remove clones,EXTRACT_INTERFACE,Original intent,No
-48053,Remove clones,EXTRACT_INTERFACE,Original intent,No
-48053,Understandability & Readability,EXTRACT_INTERFACE,Original intent,No
-47624,Remove unneeded packages,MOVE_CLASS,Original intent,No
-47624,To better reflect code responsibility,MOVE_CLASS,Original intent,No
-47343,Fix warnings from static analysis tools,Combination of refactorings,Original intent,Yes
-47465,Better distribution of responsibilities,EXTRACT_OPERATION,After discussion,Yes
-47376,To simplify testing activities,Combination of refactorings,Collateral,Yes
-47542,False positive,Combination of refactorings,Original intent,Yes
-47294,To better reflect code responsibility,RENAME_METHOD,Original intent,No
-47294,Remove clones,INLINE_OPERATION,Original intent,No
-48067,Foster code reuse,Combination of refactorings,Original intent,Yes
-47564,Refactoring previously introduced/modified code,RENAME_PARAMETER,Original intent,No
-47564,Cleanup code,RENAME_PARAMETER,Original intent,No
-47413,Foster code reuse,Combination of refactorings,Original intent,Yes
-47413,Improve performance,Combination of refactorings,Original intent,Yes
-47413,Cleanup code,Combination of refactorings,Original intent,Yes
-47413,To better reflect code responsibility,RENAME_METHOD,Collateral,Yes
-47413,Improve extensibility,EXTRACT_OPERATION,Original intent,Yes
-47585,Refactoring to allow serialization,EXTRACT_OPERATION,Original intent,Yes
-47585,To ensure a better mapping between test & production code,EXTRACT_OPERATION,Original intent,Yes
-47585,Understandability & Readability,RENAME_METHOD,After discussion,Yes
-47585,Understandability & Readability,EXTRACT_OPERATION,After discussion,Yes
-47666,Unclear,EXTRACT_VARIABLE,Original intent,Yes
-47777,Cleanup code,Combination of refactorings,After discussion,Yes
-47777,Modularize API,MOVE_CLASS,After discussion,Yes
-47290,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
-47290,Improve extensibility,EXTRACT_INTERFACE,Original intent,Yes
-48016,Refactoring previously introduced/modified code,INLINE_VARIABLE,Original intent,Yes
-48016,Cleanup code,EXTRACT_VARIABLE,Collateral,Yes
-47690,Remove linguistic antipattern,RENAME_METHOD,Original intent,No
-47738,Cleanup code,RENAME_VARIABLE,Original intent,Yes
-47738,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
-47738,Improve performance,EXTRACT_OPERATION,Original intent,Yes
-47742,Major changes to code design,Combination of refactorings,Original intent,Yes
-47377,Massive package reorganization,Combination of refactorings,Original intent,No
-47377,To fix typo,RENAME_PACKAGE,After discussion,Yes
-47637,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47637,Refactoring to allow serialization,Combination of refactorings,Original intent,Yes
-47677,Cleanup code,RENAME_CLASS,After discussion,Yes
-47677,Refactoring previously introduced/modified code,Combination of refactorings,After discussion,Yes
-47677,To better reflect code responsibility,EXTRACT_SUPERCLASS,After discussion,Yes
-47677,Implementation of new feature,MOVE_RENAME_CLASS,Original intent,No
-47996,Understandability & Readability,INLINE_VARIABLE,After discussion,Yes
-47580,Understandability & Readability,EXTRACT_VARIABLE,Original intent,Yes
-47519,Understandability & Readability,Combination of refactorings,Collateral,Yes
-47641,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47641,Remove clones,Combination of refactorings,Original intent,Yes
-47641,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47641,Cleanup code,Combination of refactorings,Original intent,Yes
-47712,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47712,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47816,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47287,Cleanup code,Combination of refactorings,Original intent,Yes
-47287,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47287,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47287,Better distribution of responsibilities,Combination of refactorings,Original intent,No
-47616,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47774,Foster code reuse,EXTRACT_CLASS,Original intent,No
-47271,Improve performance,Combination of refactorings,Original intent,Yes
-47271,To ensure a better mapping between test & production code,Combination of refactorings,Original intent,Yes
-47271,Cleanup code,Combination of refactorings,Original intent,Yes
-47271,Improve error messages and logging,Combination of refactorings,After discussion,Yes
-47271,Unclear,EXTRACT_VARIABLE,Collateral,Yes
-47271,Better distribution of responsibilities,Combination of refactorings,Collateral,Yes
-47271,Unclear,RENAME_PARAMETER,Collateral,Yes
-47471,To better reflect code responsibility,EXTRACT_SUPERCLASS,Original intent,Yes
-47471,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47471,Improve performance,Combination of refactorings,After discussion,Yes
 47471,Unclear,Combination of refactorings,After discussion,Yes
-47471,Simplify code,Combination of refactorings,After discussion,Yes
-48063,Enhancements,Combination of refactorings,Original intent,Yes
-48063,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47340,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47340,Understandability & Readability,Combination of refactorings,Original intent,Yes
-48017,Better distribution of responsibilities,EXTRACT_OPERATION,Original intent,Yes
-48017,Cleanup code,Combination of refactorings,Original intent,Yes
-48017,Improve error messages and logging,Combination of refactorings,Original intent,Yes
-48017,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-48017,Improve extensibility,Combination of refactorings,Original intent,Yes
-48017,Refactoring test code,Combination of refactorings,Original intent,Yes
-47715,Changed type hierarchy,Combination of refactorings,Original intent,Yes
-47715,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-47636,Foster code reuse,MOVE_CLASS,Original intent,Yes
-47636,Improve performance,Combination of refactorings,Original intent,Yes
-47636,Remove clones,Combination of refactorings,Original intent,Yes
-47636,Improve error messages and logging,Combination of refactorings,Original intent,Yes
-47636,Refactoring test code,MOVE_CLASS,Original intent,Yes
-47718,To adhere to naming convention,Combination of refactorings,Original intent,Yes
-47392,Refactoring previously introduced/modified code,EXTRACT_OPERATION,Original intent,No
-47315,Enhancements,EXTRACT_OPERATION,Original intent,Yes
-47315,Foster code reuse,EXTRACT_OPERATION,Original intent,Yes
-47315,Improve organization of test directory,Combination of refactorings,Original intent,Yes
-47776,Understandability & Readability,RENAME_CLASS,Original intent,Yes
-47776,Improve extensibility,EXTRACT_INTERFACE,Original intent,Yes
-47325,Implementation of new feature,Combination of refactorings,Original intent,Yes
-47589,Understandability & Readability,EXTRACT_INTERFACE,Original intent,Yes
-47589,Cleanup code,Combination of refactorings,Original intent,Yes
-47730,False positive,Combination of refactorings,Original intent,Yes
-48064,Cleanup code,Combination of refactorings,Original intent,Yes
-47560,Improve modularization,MOVE_CLASS,Original intent,Yes
-47560,Unclear,RENAME_METHOD,Original intent,Yes
-47560,Unclear,RENAME_PARAMETER,Original intent,Yes
-47560,Unclear,MOVE_RENAME_CLASS,Original intent,Yes
-47560,Cleanup code,Combination of refactorings,Original intent,Yes
 47347,Unclear,Combination of refactorings,Collateral,Yes
-47347,Cleanup code,MOVE_CLASS,Collateral,Yes
-47433,Remove clones,Combination of refactorings,Original intent,Yes
-47572,To ensure a better mapping between test & production code,EXTRACT_OPERATION,Original intent,No
-47572,To simplify testing activities,EXTRACT_OPERATION,Original intent,No
-47313,Refactoring previously introduced/modified code,EXTRACT_VARIABLE,After discussion,Yes
-47521,Simplify code,INLINE_VARIABLE,After discussion,No
-47521,Refactoring to simplify API usage,EXTRACT_OPERATION,After discussion,No
-48047,Improve exception handling,EXTRACT_OPERATION,After discussion,No
-47752,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-47752,Refactoring previously introduced/modified code,NARROW_VARIABLE_VISIBILITY,Original intent,Yes
-48001,To better reflect code responsibility,PULL_UP_ATTRIBUTE,Original intent,No
-48001,Better distribution of responsibilities,PULL_UP_ATTRIBUTE,Original intent,No
-47814,Understandability & Readability,Combination of refactorings,Original intent,No
-47814,Fix warnings from static analysis tools,RENAME_VARIABLE,Original intent,No
-48040,Remove clones,Combination of refactorings,Original intent,Yes
-48040,Promote project coding style,Combination of refactorings,Original intent,Yes
-48040,Cleanup code,Combination of refactorings,Original intent,Yes
-48040,Foster code reuse,Combination of refactorings,Original intent,Yes
-47795,Improve modularization,MOVE_CLASS,Original intent,No
-47507,Prepare code for going open source,Combination of refactorings,Original intent,Yes
-47801,To adhere to naming convention,Combination of refactorings,Original intent,Yes
-47801,Cleanup code,Combination of refactorings,Original intent,Yes
-47801,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47801,Foster code reuse,Combination of refactorings,Original intent,Yes
-47796,Cleanup code,Combination of refactorings,After discussion,Yes
-47796,Remove clones,Combination of refactorings,After discussion,Yes
-47796,DRY principle,Combination of refactorings,After discussion,Yes
-47796,To adhere to naming convention,Combination of refactorings,After discussion,Yes
-47796,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47796,Simplify code,Combination of refactorings,After discussion,Yes
 48074,Unclear,Combination of refactorings,After discussion,Yes
-48074,Understandability & Readability,Combination of refactorings,After discussion,Yes
-48074,Maintainability,Combination of refactorings,After discussion,Yes
-47760,Remove unnecessary code,Combination of refactorings,After discussion,Yes
-47760,Promote project coding style,RENAME_METHOD,After discussion,Yes
-48028,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-48028,Understandability & Readability,Combination of refactorings,Original intent,Yes
-47323,Understandability & Readability,EXTRACT_OPERATION,After discussion,No
-47323,Understandability & Readability,RENAME_PARAMETER,Original intent,No
-47307,Unclear,EXTRACT_VARIABLE,Original intent,Yes
-47613,False positive,Combination of refactorings,Original intent,Yes
-47568,Understandability & Readability,RENAME_METHOD,Original intent,Yes
-47766,To better reflect code responsibility,NARROW_METHOD_VISIBILITY,After discussion,Yes
-47766,Refactoring previously introduced/modified code,Combination of refactorings,Original intent,Yes
-47791,Refactoring to support third-party tools,INLINE_OPERATION,Original intent,No
-47554,Understandability & Readability,RENAME_CLASS,After discussion,Yes
-47554,Refactoring confusing code,RENAME_PARAMETER,Original intent,Yes
-47790,Better distribution of responsibilities,Combination of refactorings,Original intent,No
-48079,Cleanup code,Combination of refactorings,Original intent,No
-48079,Foster code reuse,Combination of refactorings,Original intent,No
-47487,To ensure a better mapping between test & production code,Combination of refactorings,Original intent,Yes
-47487,To simplify testing activities,Combination of refactorings,Original intent,Yes
-47487,Cleanup code,Combination of refactorings,Original intent,Yes
-47295,Maintainability,Combination of refactorings,Original intent,Yes
-47295,Better distribution of responsibilities,MOVE_CLASS,After discussion,Yes
-48070,Implementation of new feature,EXTRACT_OPERATION,Original intent,No
-47390,To better reflect code responsibility,RENAME_CLASS,After discussion,Yes
-47448,Changed type hierarchy,Combination of refactorings,Original intent,No
-47448,Simplify code,Combination of refactorings,After discussion,No
-47448,Fix warnings from static analysis tools,Combination of refactorings,After discussion,No
-47485,Better distribution of responsibilities,Combination of refactorings,Original intent,No
-47485,Remove clones,Combination of refactorings,Original intent,Yes
-48082,Improve exception handling,Combination of refactorings,Original intent,Yes
-48082,Massive package reorganization,Combination of refactorings,Original intent,Yes
-48082,Improve error messages and logging,Combination of refactorings,Original intent,Yes
-48082,Better distribution of responsibilities,Combination of refactorings,Original intent,Yes
-48082,Cleanup code,Combination of refactorings,After discussion,Yes
-48082,To better reflect code responsibility,Combination of refactorings,After discussion,Yes
-48082,Understandability & Readability,Combination of refactorings,After discussion,Yes
-48082,Create a more cohesive package,MOVE_CLASS,Original intent,Yes
-48082,Refactoring confusing code,RENAME_CLASS,After discussion,Yes
-48082,To fix typo,RENAME_CLASS,After discussion,Yes
-47803,Improve interface compliance,Combination of refactorings,After discussion,Yes
-47418,Other,PARAMETERIZE_VARIABLE,Original intent,No
-47418,Improve performance,Combination of refactorings,Original intent,Yes
-47418,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47418,Understandability & Readability,RENAME_VARIABLE,Collateral,Yes
-47757,To adhere to naming convention,RENAME_CLASS,After discussion,Yes
-47757,Promote project coding style,ANONYMOUS_CLASS_TO_LAMBDA_EXPRESSION,After discussion,Yes
-47632,Understandability & Readability,RENAME_PACKAGE,After discussion,Yes
-47632,Understandability & Readability,EXTRACT_OPERATION,After discussion,Yes
-47632,False positive,EXTRACT_CLASS,After discussion,Yes
-47632,Unclear,MOVE_ATTRIBUTE,After discussion,Yes
-47378,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47378,To keep consistency in naming,Combination of refactorings,After discussion,Yes
-47378,Improve exception handling,Combination of refactorings,After discussion,Yes
-47676,Cleanup code,Combination of refactorings,Original intent,Yes
-47676,Modularize API,Combination of refactorings,Original intent,No
 47490,Unclear,Combination of refactorings,After discussion,Yes
-47369,Better distribution of responsibilities,EXTRACT_CLASS,Original intent,Yes
-47754,Refactoring to create separate maven artifact,MOVE_SOURCE_FOLDER,Original intent,No
-47592,Implementation of new feature,RENAME_CLASS,Original intent,Yes
-47592,Refactoring previously introduced/modified code,RENAME_CLASS,Original intent,Yes
-47481,Remove unnecessary code,Combination of refactorings,Original intent,Yes
-47481,Improve performance,Combination of refactorings,Original intent,Yes
-48065,Improve performance,Combination of refactorings,Original intent,No
-48065,To better reflect code responsibility,Combination of refactorings,Original intent,No
-48065,Fix warnings from static analysis tools,EXTRACT_OPERATION,Original intent,No
-47697,Implementation of new feature,EXTRACT_INTERFACE,Original intent,No
 47597,Unclear,Combination of refactorings,Original intent,Yes
-47273,Refactoring confusing code,EXTRACT_INTERFACE,After discussion,Yes
-47273,Better distribution of responsibilities,EXTRACT_INTERFACE,Original intent,Yes
-47273,Improve extensibility,EXTRACT_INTERFACE,Original intent,Yes
-48003,Renaming,RENAME_METHOD,After discussion,Yes
 48003,Unclear,Combination of refactorings,After discussion,Yes
-47750,To adhere to naming convention,INLINE_VARIABLE,Original intent,Yes
-47750,Understandability & Readability,RENAME_VARIABLE,Original intent,Yes
-47473,Understandability & Readability,Combination of refactorings,After discussion,Yes
-47473,Foster code reuse,EXTRACT_OPERATION,After discussion,Yes
-47544,To better reflect code responsibility,MOVE_SOURCE_FOLDER,Original intent,Yes
+47305,Unclear,EXTRACT_AND_MOVE_OPERATION,Original intent,No
+47719,Unclear,EXTRACT_OPERATION,After discussion,No
+47315,Unclear,EXTRACT_OPERATION,Original intent,Yes
+48050,Unclear,EXTRACT_OPERATION,Original intent,Yes
+47366,Unclear,EXTRACT_OPERATION,Original intent,Yes
+47654,Unclear,EXTRACT_OPERATION,Collateral,Yes
+47291,Unclear,EXTRACT_SUPERCLASS,Original intent,Yes
+47396,Unclear,EXTRACT_VARIABLE,Collateral,Yes
+47793,Unclear,EXTRACT_VARIABLE,Original intent,No
+47666,Unclear,EXTRACT_VARIABLE,Original intent,Yes
+47271,Unclear,EXTRACT_VARIABLE,Collateral,Yes
+47307,Unclear,EXTRACT_VARIABLE,Original intent,Yes
+47570,Unclear,MOVE_ATTRIBUTE,Collateral,No
+47654,Unclear,MOVE_ATTRIBUTE,After discussion,No
+47632,Unclear,MOVE_ATTRIBUTE,After discussion,Yes
+48076,Unclear,MOVE_OPERATION,Original intent,Yes
+47560,Unclear,MOVE_RENAME_CLASS,Original intent,Yes
+47385,Unclear,RENAME_ATTRIBUTE,Original intent,No
+47570,Unclear,RENAME_ATTRIBUTE,Original intent,Yes
+47385,Unclear,RENAME_CLASS,Original intent,No
+47755,Unclear,RENAME_METHOD,Original intent,Yes
+47560,Unclear,RENAME_METHOD,Original intent,Yes
+47622,Unclear,RENAME_PARAMETER,Collateral,Yes
+47271,Unclear,RENAME_PARAMETER,Collateral,Yes
+47560,Unclear,RENAME_PARAMETER,Original intent,Yes
+47563,Use composition over inheritance,EXTRACT_INTERFACE,Collateral,Yes
+47612,Use composition over inheritance,MOVE_ATTRIBUTE,After discussion,Yes
+47612,Use composition over inheritance,RENAME_CLASS,After discussion,Yes
+47382,Use composition over inheritance,RENAME_METHOD,After discussion,No
+47361,Use override over inheritance,Combination of refactorings,Original intent,Yes
