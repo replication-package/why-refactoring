@@ -231,12 +231,12 @@ pullRequest_id,tag,what,when,tangled
 47448,Fix warnings from static analysis tools,Combination of refactorings,After discussion,No
 48065,Fix warnings from static analysis tools,EXTRACT_OPERATION,Original intent,No
 47814,Fix warnings from static analysis tools,RENAME_VARIABLE,Original intent,No
-47506,For bug fixing,Combination of refactorings,Original intent,No
-47758,For bug fixing,EXTRACT_VARIABLE,Original intent,No
-47680,For bug fixing,EXTRACT_VARIABLE,Collateral,Yes
-47382,For bug fixing,MOVE_RENAME_CLASS,After discussion,Yes
-47382,For bug fixing,RENAME_METHOD,After discussion,Yes
-47382,For bug fixing,RENAME_VARIABLE,After discussion,Yes
+47506,Improve Maintainability,Combination of refactorings,Original intent,No
+47758,Remove unnecessary code,EXTRACT_VARIABLE,Original intent,No
+47680,Remove unnecessary code,EXTRACT_VARIABLE,Collateral,Yes
+47382,Use composition over inheritance,MOVE_RENAME_CLASS,After discussion,Yes
+47382,Use composition over inheritance,RENAME_METHOD,After discussion,Yes
+47382,Use composition over inheritance,RENAME_VARIABLE,After discussion,Yes
 48061,For going open source,Combination of refactorings,Original intent,Yes
 47507,For going open source,Combination of refactorings,Original intent,Yes
 47647,For implementing a new feature,Combination of refactorings,Collateral,Yes
